@@ -1,0 +1,711 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+A1	Normsinv.h	8;"	d
+A1	test_codes/Normsinv.h	8;"	d
+A2	Normsinv.h	9;"	d
+A2	test_codes/Normsinv.h	9;"	d
+A3	Normsinv.h	10;"	d
+A3	test_codes/Normsinv.h	10;"	d
+A4	Normsinv.h	11;"	d
+A4	test_codes/Normsinv.h	11;"	d
+A5	Normsinv.h	12;"	d
+A5	test_codes/Normsinv.h	12;"	d
+A6	Normsinv.h	13;"	d
+A6	test_codes/Normsinv.h	13;"	d
+ALPHA	Rev_File/VNE3.cpp	19;"	d	file:
+Alg	backup/main.cpp	/^enum Alg {$/;"	g	file:
+Alg	before_path_main.cpp	/^enum Alg {$/;"	g	file:
+Alg	before_path_main2.cpp	/^enum Alg {$/;"	g	file:
+Alg	main.cpp	/^enum Alg {$/;"	g	file:
+Alg	main_complete.cpp	/^enum Alg {$/;"	g	file:
+Alg	main_expr1.cpp	/^enum Alg {$/;"	g	file:
+Alg	main_final.cpp	/^enum Alg {$/;"	g	file:
+Alg	main_modifiedb4.cpp	/^enum Alg {$/;"	g	file:
+B1	Normsinv.h	15;"	d
+B1	test_codes/Normsinv.h	15;"	d
+B2	Normsinv.h	16;"	d
+B2	test_codes/Normsinv.h	16;"	d
+B3	Normsinv.h	17;"	d
+B3	test_codes/Normsinv.h	17;"	d
+B4	Normsinv.h	18;"	d
+B4	test_codes/Normsinv.h	18;"	d
+B5	Normsinv.h	19;"	d
+B5	test_codes/Normsinv.h	19;"	d
+BFS	Rev_File/VNE3.cpp	/^void BFS(int innet, int root, int** inout){\/\/BFS inout2차 배열에 홉별로 저장 inout[hop][k]$/;"	f
+Bandwidth	Rev_File/Phy_Topology.h	/^		double Bandwidth;	\/\/ Bandwidth of the edge$/;"	m	class:S_Edge
+BasePath	GraphElements.h	/^	BasePath(const std::vector<BaseVertex*>& vertex_list, double weight)$/;"	f	class:BasePath
+BasePath	GraphElements.h	/^class BasePath$/;"	c
+BaseVertex	GraphElements.h	/^class BaseVertex$/;"	c
+BaseVertexPt2SetMapIterator	Graph.h	/^	typedef map<BaseVertex*, set<BaseVertex*>*>::iterator BaseVertexPt2SetMapIterator;$/;"	t	class:Graph
+Borrow	main.cpp	/^	Borrow$/;"	e	enum:Cost	file:
+Borrow	main_complete.cpp	/^	Borrow$/;"	e	enum:Cost	file:
+Borrow	main_expr1.cpp	/^	Borrow$/;"	e	enum:Cost	file:
+Borrow	main_final.cpp	/^	Borrow$/;"	e	enum:Cost	file:
+C1	Normsinv.h	21;"	d
+C1	test_codes/Normsinv.h	21;"	d
+C2	Normsinv.h	22;"	d
+C2	test_codes/Normsinv.h	22;"	d
+C3	Normsinv.h	23;"	d
+C3	test_codes/Normsinv.h	23;"	d
+C4	Normsinv.h	24;"	d
+C4	test_codes/Normsinv.h	24;"	d
+C5	Normsinv.h	25;"	d
+C5	test_codes/Normsinv.h	25;"	d
+C6	Normsinv.h	26;"	d
+C6	test_codes/Normsinv.h	26;"	d
+CAPACITY	backup/main.cpp	34;"	d	file:
+CAPACITY	before_path_main.cpp	34;"	d	file:
+CAPACITY	before_path_main2.cpp	34;"	d	file:
+CAPACITY	main.cpp	35;"	d	file:
+CAPACITY	main_complete.cpp	34;"	d	file:
+CAPACITY	main_expr1.cpp	35;"	d	file:
+CAPACITY	main_final.cpp	34;"	d	file:
+CAPACITY	main_modifiedb4.cpp	34;"	d	file:
+CAPACITY_LIMIT	main.cpp	39;"	d	file:
+CAPACITY_LIMIT	main_complete.cpp	38;"	d	file:
+CAPACITY_LIMIT	main_expr1.cpp	39;"	d	file:
+CAPACITY_LIMIT	main_final.cpp	38;"	d	file:
+CARGS	Makefile	/^CARGS = -m64 -g$/;"	m
+CARGS	backup/Makefile	/^CARGS = -m64 -g$/;"	m
+CC	Makefile	/^CC = g++$/;"	m
+CC	backup/Makefile	/^CC = g++$/;"	m
+CC	test_codes/Makefile	/^CC = g++$/;"	m
+CFLAGS	Makefile	/^CFLAGS = -I..\/..\/..\/include\/ -L..\/..\/..\/lib\/ -lgurobi_c++ -lgurobi60 -lpthread -lm$/;"	m
+CFLAGS	backup/Makefile	/^CFLAGS = -I..\/..\/..\/include\/ -L..\/..\/..\/lib\/ -lgurobi_c++ -lgurobi60 -lpthread -lm$/;"	m
+CLIB	Makefile	/^CLIB = -L..\/..\/lib\/ -lgurobi60$/;"	m
+CLIB	backup/Makefile	/^CLIB = -L..\/..\/lib\/ -lgurobi60$/;"	m
+CONFLINKD	Rev_File/VNE3.cpp	21;"	d	file:
+CONFMODE	Rev_File/VNE3.cpp	20;"	d	file:
+CPPLIB	Makefile	/^CPPLIB = -L..\/..\/..\/lib\/ -lgurobi_c++ -lgurobi60$/;"	m
+CPPLIB	backup/Makefile	/^CPPLIB = -L..\/..\/..\/lib\/ -lgurobi_c++ -lgurobi60$/;"	m
+C_ChangeNewRequestPathsform	backup/main.cpp	/^vector <int> C_ChangeNewRequestPathsform(C_Request* new_req, vector <int>& user_path_vec, C_Phy_Topo* _topo) {$/;"	f
+C_ChangeNewRequestPathsform	main.cpp	/^vector <int> C_ChangeNewRequestPathsform(C_Request* new_req, vector <int>& user_path_vec, C_Phy_Topo* _topo) {$/;"	f
+C_ChangeNewRequestPathsform	main_complete.cpp	/^vector <int> C_ChangeNewRequestPathsform(C_Request* new_req, vector <int>& user_path_vec, C_Phy_Topo* _topo) {$/;"	f
+C_ChangeNewRequestPathsform	main_expr1.cpp	/^vector <int> C_ChangeNewRequestPathsform(C_Request* new_req, vector <int>& user_path_vec, C_Phy_Topo* _topo) {$/;"	f
+C_ChangeNewRequestPathsform	main_final.cpp	/^vector <int> C_ChangeNewRequestPathsform(C_Request* new_req, vector <int>& user_path_vec, C_Phy_Topo* _topo) {$/;"	f
+C_ChangeNewRequestPathsform	main_modifiedb4.cpp	/^vector <int> C_ChangeNewRequestPathsform(C_Request* new_req, vector <int>& user_path_vec, C_Phy_Topo* _topo) {$/;"	f
+C_ChangePathform	backup/main.cpp	/^void C_ChangePathform(C_Request* embedded_req, vector <vector <int> >& embedded_user_path_vec, C_Phy_Topo* _topo) {$/;"	f
+C_ChangePathform	before_path_main.cpp	/^void C_ChangePathform(C_Request* embedded_req, vector <vector <int> >& embedded_user_path_vec, C_Phy_Topo* _topo) {$/;"	f
+C_ChangePathform	before_path_main2.cpp	/^void C_ChangePathform(C_Request* embedded_req, vector <vector <int> >& embedded_user_path_vec, C_Phy_Topo* _topo) {$/;"	f
+C_ChangePathform	main.cpp	/^void C_ChangePathform(C_Request* embedded_req, vector <vector <int> >& embedded_user_path_vec, C_Phy_Topo* _topo) {$/;"	f
+C_ChangePathform	main_complete.cpp	/^void C_ChangePathform(C_Request* embedded_req, vector <vector <int> >& embedded_user_path_vec, C_Phy_Topo* _topo) {$/;"	f
+C_ChangePathform	main_expr1.cpp	/^void C_ChangePathform(C_Request* embedded_req, vector <vector <int> >& embedded_user_path_vec, C_Phy_Topo* _topo) {$/;"	f
+C_ChangePathform	main_final.cpp	/^void C_ChangePathform(C_Request* embedded_req, vector <vector <int> >& embedded_user_path_vec, C_Phy_Topo* _topo) {$/;"	f
+C_ChangePathform	main_modifiedb4.cpp	/^void C_ChangePathform(C_Request* embedded_req, vector <vector <int> >& embedded_user_path_vec, C_Phy_Topo* _topo) {$/;"	f
+C_Flow	C_Request.cpp	/^C_Flow::C_Flow() {$/;"	f	class:C_Flow
+C_Flow	C_Request.cpp	/^C_Flow::C_Flow(int node1, int node2, double _m, double _v, double _e, double _d) {$/;"	f	class:C_Flow
+C_Flow	C_Request.h	/^class C_Flow {$/;"	c
+C_PHY_TOPOLOGY_H	C_Phy_topology.h	4;"	d
+C_Phy_Topo	C_Phy_topology.cpp	/^C_Phy_Topo::C_Phy_Topo(int snodenum, int sedgenum, double capa) {$/;"	f	class:C_Phy_Topo
+C_Phy_Topo	C_Phy_topology.h	/^class C_Phy_Topo {$/;"	c
+C_REQUEST_INCLUDED	C_Request.h	4;"	d
+C_Request	C_Request.cpp	/^C_Request::C_Request() {$/;"	f	class:C_Request
+C_Request	C_Request.h	/^class C_Request {$/;"	c
+C_S_Edge	C_Phy_topology.cpp	/^C_S_Edge::C_S_Edge() {$/;"	f	class:C_S_Edge
+C_S_Edge	C_Phy_topology.cpp	/^C_S_Edge::C_S_Edge(int edge_number, int current_node, int adjacent_node, double capacity) {$/;"	f	class:C_S_Edge
+C_S_Edge	C_Phy_topology.h	/^class C_S_Edge {$/;"	c
+C_S_Node	C_Phy_topology.cpp	/^C_S_Node::C_S_Node(int node_number) {$/;"	f	class:C_S_Node
+C_S_Node	C_Phy_topology.h	/^class C_S_Node {$/;"	c
+ChangeNewRequestPathsform	backup/main.cpp	/^vector <int> ChangeNewRequestPathsform(Request* new_req, vector <int>& user_path_vec, Phy_Topo* _topo) {$/;"	f
+ChangeNewRequestPathsform	before_path_main.cpp	/^vector <int> ChangeNewRequestPathsform(Request* new_req, vector <int>& user_path_vec, Phy_Topo* _topo) {$/;"	f
+ChangeNewRequestPathsform	before_path_main2.cpp	/^vector <int> ChangeNewRequestPathsform(Request* new_req, vector <int>& user_path_vec, Phy_Topo* _topo) {$/;"	f
+ChangeNewRequestPathsform	main.cpp	/^vector <int> ChangeNewRequestPathsform(Request* new_req, vector <int>& user_path_vec, Phy_Topo* _topo) {$/;"	f
+ChangeNewRequestPathsform	main_complete.cpp	/^vector <int> ChangeNewRequestPathsform(Request* new_req, vector <int>& user_path_vec, Phy_Topo* _topo) {$/;"	f
+ChangeNewRequestPathsform	main_expr1.cpp	/^vector <int> ChangeNewRequestPathsform(Request* new_req, vector <int>& user_path_vec, Phy_Topo* _topo) {$/;"	f
+ChangeNewRequestPathsform	main_final.cpp	/^vector <int> ChangeNewRequestPathsform(Request* new_req, vector <int>& user_path_vec, Phy_Topo* _topo) {$/;"	f
+ChangeNewRequestPathsform	main_modifiedb4.cpp	/^vector <int> ChangeNewRequestPathsform(Request* new_req, vector <int>& user_path_vec, Phy_Topo* _topo) {$/;"	f
+ChangePathform	backup/main.cpp	/^void ChangePathform(Request* embedded_req, vector <vector <int> >& embedded_user_path_vec, Phy_Topo* _topo) {$/;"	f
+ChangePathform	before_path_main.cpp	/^void ChangePathform(Request* embedded_req, vector <vector <int> >& embedded_user_path_vec, Phy_Topo* _topo) {$/;"	f
+ChangePathform	before_path_main2.cpp	/^void ChangePathform(Request* embedded_req, vector <vector <int> >& embedded_user_path_vec, Phy_Topo* _topo) {$/;"	f
+ChangePathform	main.cpp	/^void ChangePathform(Request* embedded_req, vector <vector <int> >& embedded_user_path_vec, Phy_Topo* _topo) {$/;"	f
+ChangePathform	main_complete.cpp	/^void ChangePathform(Request* embedded_req, vector <vector <int> >& embedded_user_path_vec, Phy_Topo* _topo) {$/;"	f
+ChangePathform	main_expr1.cpp	/^void ChangePathform(Request* embedded_req, vector <vector <int> >& embedded_user_path_vec, Phy_Topo* _topo) {$/;"	f
+ChangePathform	main_final.cpp	/^void ChangePathform(Request* embedded_req, vector <vector <int> >& embedded_user_path_vec, Phy_Topo* _topo) {$/;"	f
+ChangePathform	main_modifiedb4.cpp	/^void ChangePathform(Request* embedded_req, vector <vector <int> >& embedded_user_path_vec, Phy_Topo* _topo) {$/;"	f
+CompEmbed	Rev_File/VNE3.cpp	/^int CompEmbed(int VID, int* embedArr){ \/\/VID번째 가상 네트워크를 임베딩한다.$/;"	f
+Connected_Edge_Number	Rev_File/Phy_Topology.h	/^		int Connected_Edge_Number; $/;"	m	class:S_Node
+Connected_Node1	Rev_File/Phy_Topology.h	/^		int Connected_Node1;$/;"	m	class:S_Edge
+Connected_Node2	Rev_File/Phy_Topology.h	/^		int Connected_Node2;	\/\/ connected nodes, Node1 has smaller Node_ID than Node2;$/;"	m	class:S_Edge
+Construction	main.cpp	/^	Construction,$/;"	e	enum:Cost	file:
+Construction	main_complete.cpp	/^	Construction,$/;"	e	enum:Cost	file:
+Construction	main_expr1.cpp	/^	Construction,$/;"	e	enum:Cost	file:
+Construction	main_final.cpp	/^	Construction,$/;"	e	enum:Cost	file:
+Cost	main.cpp	/^enum Cost {$/;"	g	file:
+Cost	main_complete.cpp	/^enum Cost {$/;"	g	file:
+Cost	main_expr1.cpp	/^enum Cost {$/;"	g	file:
+Cost	main_final.cpp	/^enum Cost {$/;"	g	file:
+D1	Normsinv.h	28;"	d
+D1	test_codes/Normsinv.h	28;"	d
+D2	Normsinv.h	29;"	d
+D2	test_codes/Normsinv.h	29;"	d
+D3	Normsinv.h	30;"	d
+D3	test_codes/Normsinv.h	30;"	d
+D4	Normsinv.h	31;"	d
+D4	test_codes/Normsinv.h	31;"	d
+DELIM	C_Phy_topology.cpp	10;"	d	file:
+DELIM	Phy_topology.cpp	14;"	d	file:
+DELIM	test_codes/parsing_test.cpp	6;"	d	file:
+DISCONNECT	Graph.cpp	/^const double Graph::DISCONNECT = (numeric_limits<double>::max)();$/;"	m	class:Graph	file:
+DISCONNECT	Graph.h	/^	const static double DISCONNECT; $/;"	m	class:Graph
+DeleteFunc	GraphElements.h	/^class DeleteFunc$/;"	c
+DijkstraShortestPathAlg	DijkstraShortestPathAlg.h	/^	DijkstraShortestPathAlg(Graph* pGraph):m_pDirectGraph(pGraph){}$/;"	f	class:DijkstraShortestPathAlg
+DijkstraShortestPathAlg	DijkstraShortestPathAlg.h	/^class DijkstraShortestPathAlg$/;"	c
+EEmbedTo	Rev_File/VNE3.cpp	/^void EEmbedTo(int VID, int from, int* to){$/;"	f
+EPS	Rev_File/VNE3.cpp	18;"	d	file:
+EXPMEAN	Rev_File/VNE3.cpp	23;"	d	file:
+Edge_ID	Rev_File/Phy_Topology.h	/^		int Edge_ID;$/;"	m	class:S_Edge
+Edges	Rev_File/Phy_Topology.h	/^		S_Edge** Edges;	\/\/ edges: array of pointers to indicate S_Edge* type$/;"	m	class:Phy_Topo
+Embed	Rev_File/VNE3.cpp	/^int Embed(int VID, int NID, int* embedArr){$/;"	f
+Embedded_Info	C_Phy_topology.h	/^		} Embedded_Info;$/;"	t	class:C_S_Edge	typeref:struct:C_S_Edge::__anon2
+Embedded_Info	Phy_topology.h	/^		} Embedded_Info;$/;"	t	class:S_Edge	typeref:struct:S_Edge::__anon1
+Embedded_Info_Vector	C_Phy_topology.h	/^		typedef vector <Embedded_Info> Embedded_Info_Vector;$/;"	t	class:C_S_Edge
+Embedded_Info_Vector	Phy_topology.h	/^		typedef vector <Embedded_Info> Embedded_Info_Vector;$/;"	t	class:S_Edge
+Embedded_Request_ID	Rev_File/Phy_Topology.h	/^			int Embedded_Request_ID;$/;"	m	struct:S_Edge::__anon3
+Embedded_Request_Information	Rev_File/Phy_Topology.h	/^		} Embedded_Request_Information;$/;"	t	class:S_Edge	typeref:struct:S_Edge::__anon3
+Embedded_Request_Information_Iter	Rev_File/Phy_Topology.h	/^		typedef Embedded_Request_Information_Vector::iterator Embedded_Request_Information_Iter;$/;"	t	class:S_Edge
+Embedded_Request_Information_Vector	Rev_File/Phy_Topology.h	/^		typedef vector <Embedded_Request_Information> Embedded_Request_Information_Vector;$/;"	t	class:S_Edge
+Epsilon	Rev_File/Phy_Topology.h	/^			double Epsilon;$/;"	m	struct:S_Edge::__anon3
+Filled_Bandwidth	Rev_File/Phy_Topology.h	/^		double Filled_Bandwidth;$/;"	m	class:S_Edge
+Flow	Request.cpp	/^Flow::Flow() {$/;"	f	class:Flow
+Flow	Request.cpp	/^Flow::Flow(int node1, int node2, double _m, double _v, double _e) {$/;"	f	class:Flow
+Flow	Request.h	/^class Flow {$/;"	c
+GetActualEpsilon	Rev_File/Phy_Topology.cpp	/^double S_Edge::GetActualEpsilon() {$/;"	f	class:S_Edge
+GetActualQoS	C_Phy_topology.cpp	/^double C_S_Edge::GetActualQoS() {$/;"	f	class:C_S_Edge
+GetActualQoS	Phy_topology.cpp	/^double S_Edge::GetActualQoS() {$/;"	f	class:S_Edge
+GetVertex	GraphElements.h	/^	BaseVertex* GetVertex(int i)$/;"	f	class:BasePath
+Get_Accepted	C_Request.cpp	/^bool C_Request::Get_Accepted(void) {$/;"	f	class:C_Request
+Get_Accepted	Request.cpp	/^bool Request::Get_Accepted(void) {$/;"	f	class:Request
+Get_Checked	C_Request.cpp	/^bool C_Request::Get_Checked(void) {$/;"	f	class:C_Request
+Get_Checked	Request.cpp	/^bool Request::Get_Checked(void) {$/;"	f	class:Request
+Get_Demand	C_Request.cpp	/^double C_Request::Get_Demand(void) {$/;"	f	class:C_Request
+Get_Destination	C_Request.cpp	/^int C_Request::Get_Destination(void) {$/;"	f	class:C_Request
+Get_Destination	Request.cpp	/^int Request::Get_Destination(void) {$/;"	f	class:Request
+Get_Epsilon	Request.cpp	/^double Request::Get_Epsilon(void) {$/;"	f	class:Request
+Get_ID	C_Request.cpp	/^int C_Request::Get_ID(void) {$/;"	f	class:C_Request
+Get_ID	Request.cpp	/^int Request::Get_ID(void) {$/;"	f	class:Request
+Get_Mean	Request.cpp	/^double Request::Get_Mean(void) {$/;"	f	class:Request
+Get_Source	C_Request.cpp	/^int C_Request::Get_Source(void) {$/;"	f	class:C_Request
+Get_Source	Request.cpp	/^int Request::Get_Source(void) {$/;"	f	class:Request
+Get_Used	C_Request.cpp	/^bool C_Request::Get_Used(void) {$/;"	f	class:C_Request
+Get_Used	Request.cpp	/^bool Request::Get_Used(void) {$/;"	f	class:Request
+Get_Var	Request.cpp	/^double Request::Get_Var(void) {$/;"	f	class:Request
+Graph	Graph.cpp	/^Graph::Graph( const Graph& graph )$/;"	f	class:Graph
+Graph	Graph.cpp	/^Graph::Graph( const string& file_name )$/;"	f	class:Graph
+Graph	Graph.h	/^class Graph$/;"	c
+INC	Makefile	/^INC = ..\/..\/..\/include\/$/;"	m
+INC	backup/Makefile	/^INC = ..\/..\/..\/include\/$/;"	m
+KEY	Rev_File/VNE3.cpp	17;"	d	file:
+MAXDELAY	Rev_File/VNE3.cpp	13;"	d	file:
+MAXPATH	Rev_File/VNE3.cpp	9;"	d	file:
+MAXSLINKNUM	Rev_File/VNE3.cpp	16;"	d	file:
+MAXVNODENUM	Rev_File/VNE3.cpp	14;"	d	file:
+MAXWINQ	Rev_File/VNE3.cpp	10;"	d	file:
+MAX_FLOW_SIZE	backup/main.cpp	37;"	d	file:
+MAX_FLOW_SIZE	before_path_main.cpp	37;"	d	file:
+MAX_FLOW_SIZE	before_path_main2.cpp	37;"	d	file:
+MAX_FLOW_SIZE	main.cpp	37;"	d	file:
+MAX_FLOW_SIZE	main_complete.cpp	36;"	d	file:
+MAX_FLOW_SIZE	main_expr1.cpp	37;"	d	file:
+MAX_FLOW_SIZE	main_final.cpp	36;"	d	file:
+MAX_FLOW_SIZE	main_modifiedb4.cpp	36;"	d	file:
+MAX_PATH_SIZE	backup/main.cpp	35;"	d	file:
+MAX_PATH_SIZE	before_path_main.cpp	35;"	d	file:
+MAX_PATH_SIZE	before_path_main2.cpp	35;"	d	file:
+MAX_PATH_SIZE	main.cpp	36;"	d	file:
+MAX_PATH_SIZE	main_complete.cpp	35;"	d	file:
+MAX_PATH_SIZE	main_expr1.cpp	36;"	d	file:
+MAX_PATH_SIZE	main_final.cpp	35;"	d	file:
+MAX_PATH_SIZE	main_modifiedb4.cpp	35;"	d	file:
+MAX_SIZE	C_Phy_topology.cpp	9;"	d	file:
+MAX_SIZE	Phy_topology.cpp	13;"	d	file:
+MAX_SIZE	test_codes/get_string_test.cpp	6;"	d	file:
+MAX_SIZE	test_codes/parsing_test.cpp	5;"	d	file:
+MakeCFlows	C_Request.cpp	/^void C_Request::MakeCFlows(int flow_number, int node1, int node2, double _m, double _v, double _e, double _d) {$/;"	f	class:C_Request
+MakeFlows	Request.cpp	/^void Request::MakeFlows(int flow_number, int node1, int node2, double _m, double _v, double _e) {$/;"	f	class:Request
+MakeSN	Rev_File/VNE3.cpp	/^void MakeSN(int nodenum, int xrange, int yrange, int cvmin, int cvmax, int nwmin, int nwmax, int lwmin, int lwmax){$/;"	f
+MakeVNs	Rev_File/VNE3.cpp	/^void MakeVNs(int vnnum, int nwmin, int nwmax, int lwmin, int lwmax){ \/\/Vnnum 만큼의 가상 네트워크 생성$/;"	f
+Mean	Rev_File/Phy_Topology.h	/^			double Mean;$/;"	m	struct:S_Edge::__anon3
+Min_Epsilon	Rev_File/Phy_Topology.h	/^		double Min_Epsilon;$/;"	m	class:S_Edge
+NEmbedTo	Rev_File/VNE3.cpp	/^void NEmbedTo(int VID, int from, int to){$/;"	f
+NORMSINV_INCLUDED	Normsinv.h	4;"	d
+NORMSINV_INCLUDED	test_codes/Normsinv.h	4;"	d
+NodeMapOrder	Rev_File/VNE3.cpp	/^void NodeMapOrder(int VID, int* output){$/;"	f
+Node_ID	Rev_File/Phy_Topology.h	/^		int Node_ID;	\/\/ node identification$/;"	m	class:S_Node
+Nodes	Rev_File/Phy_Topology.h	/^		S_Node** Nodes;	\/\/ nodes: array of pointers to indicate S_Node* type$/;"	m	class:Phy_Topo
+PHY_TOPOLOGY_H	Phy_topology.h	4;"	d
+PHY_TOPOLOGY_H	Rev_File/Phy_Topology.h	4;"	d
+POIMEAN	Rev_File/VNE3.cpp	22;"	d	file:
+P_HIGH	Normsinv.h	34;"	d
+P_HIGH	test_codes/Normsinv.h	34;"	d
+P_LOW	Normsinv.h	33;"	d
+P_LOW	test_codes/Normsinv.h	33;"	d
+Path	Graph.h	/^	Path(const std::vector<BaseVertex*>& vertex_list, double weight):BasePath(vertex_list,weight){}$/;"	f	class:Path
+Path	Graph.h	/^class Path : public BasePath$/;"	c
+Phy_Topo	Phy_topology.cpp	/^Phy_Topo::Phy_Topo(int snodenum, int sedgenum, int capa) {$/;"	f	class:Phy_Topo
+Phy_Topo	Phy_topology.h	/^class Phy_Topo {$/;"	c
+Phy_Topo	Rev_File/Phy_Topology.cpp	/^Phy_Topo::Phy_Topo() {$/;"	f	class:Phy_Topo
+Phy_Topo	Rev_File/Phy_Topology.h	/^class Phy_Topo {$/;"	c
+PrintAllEdgeInfo	C_Phy_topology.cpp	/^void C_Phy_Topo::PrintAllEdgeInfo(ostream& out_stream) {$/;"	f	class:C_Phy_Topo
+PrintAllEdgeInfo	Phy_topology.cpp	/^void Phy_Topo::PrintAllEdgeInfo(ostream& out_stream) {$/;"	f	class:Phy_Topo
+PrintAllEdgeInformation	Rev_File/Phy_Topology.cpp	/^void Phy_Topo::PrintAllEdgeInformation(ofstream& out_stream) {$/;"	f	class:Phy_Topo
+PrintAllNodeInfo	C_Phy_topology.cpp	/^void C_Phy_Topo::PrintAllNodeInfo() {$/;"	f	class:C_Phy_Topo
+PrintAllNodeInfo	Phy_topology.cpp	/^void Phy_Topo::PrintAllNodeInfo() {$/;"	f	class:Phy_Topo
+PrintC_Request	C_Request.cpp	/^void C_Request::PrintC_Request(void) {$/;"	f	class:C_Request
+PrintEdgeInfo	C_Phy_topology.cpp	/^void C_S_Edge::PrintEdgeInfo(ostream& out_stream) {$/;"	f	class:C_S_Edge
+PrintEdgeInfo	Phy_topology.cpp	/^void S_Edge::PrintEdgeInfo(ostream& out_stream) {$/;"	f	class:S_Edge
+PrintEdgeInformation	Rev_File/Phy_Topology.cpp	/^void S_Edge::PrintEdgeInformation() {$/;"	f	class:S_Edge
+PrintNodeInfo	C_Phy_topology.cpp	/^void C_S_Node::PrintNodeInfo() {$/;"	f	class:C_S_Node
+PrintNodeInfo	Phy_topology.cpp	/^void S_Node::PrintNodeInfo() {$/;"	f	class:S_Node
+PrintNodeInformation	Rev_File/Phy_Topology.cpp	/^void S_Node::PrintNodeInformation() {$/;"	f	class:S_Node
+PrintOut	Graph.h	/^	void PrintOut(std::ostream& out_stream) const$/;"	f	class:Path
+PrintOut	GraphElements.h	/^	void PrintOut(std::ostream& out_stream) const$/;"	f	class:BasePath
+PrintOut	GraphElements.h	/^	void PrintOut(std::ostream& out_stream)$/;"	f	class:BaseVertex
+PrintRequest	Request.cpp	/^void Request::PrintRequest(void) {$/;"	f	class:Request
+Qsize	Rev_File/VNE3.cpp	/^    int Qsize; \/\/큐의 크기$/;"	m	class:queue	file:
+REQUEST_H	Request.h	4;"	d
+RecSpath	Rev_File/VNE3.cpp	/^int RecSpath(int pathlength, int nowlen, int nownode, int dest, int* result){ \/\/shortest path의 길이를 알고있을때 그 path를 찾는 함수.$/;"	f
+Relax_Var	backup/main.cpp	/^	Relax_Var,$/;"	e	enum:Alg	file:
+Relax_Var	before_path_main.cpp	/^	Relax_Var,$/;"	e	enum:Alg	file:
+Relax_Var	before_path_main2.cpp	/^	Relax_Var,$/;"	e	enum:Alg	file:
+Relax_Var	main.cpp	/^	Relax_Var,$/;"	e	enum:Alg	file:
+Relax_Var	main_complete.cpp	/^	Relax_Var,$/;"	e	enum:Alg	file:
+Relax_Var	main_expr1.cpp	/^	Relax_Var,$/;"	e	enum:Alg	file:
+Relax_Var	main_final.cpp	/^	Relax_Var,$/;"	e	enum:Alg	file:
+Relax_Var	main_modifiedb4.cpp	/^	Relax_Var,$/;"	e	enum:Alg	file:
+Request	Request.cpp	/^Request::Request() {$/;"	f	class:Request
+Request	Request.h	/^class Request {$/;"	c
+RqT	Rev_File/VNE3.cpp	/^             int RqT;\/\/요구된 지속시간$/;"	m	class:Vnet	file:
+SEDGENUM	backup/main.cpp	33;"	d	file:
+SEDGENUM	before_path_main.cpp	33;"	d	file:
+SEDGENUM	before_path_main2.cpp	33;"	d	file:
+SEDGENUM	main.cpp	34;"	d	file:
+SEDGENUM	main_complete.cpp	33;"	d	file:
+SEDGENUM	main_expr1.cpp	34;"	d	file:
+SEDGENUM	main_final.cpp	33;"	d	file:
+SEDGENUM	main_modifiedb4.cpp	33;"	d	file:
+SN	Rev_File/VNE3.cpp	/^Snet* SN;\/\/ 서브넷 네트워크 - 동적 생성을 위해 포인터로! $/;"	v
+SNODENUM	Rev_File/VNE3.cpp	15;"	d	file:
+SNODENUM	backup/main.cpp	32;"	d	file:
+SNODENUM	before_path_main.cpp	32;"	d	file:
+SNODENUM	before_path_main2.cpp	32;"	d	file:
+SNODENUM	main.cpp	33;"	d	file:
+SNODENUM	main_complete.cpp	32;"	d	file:
+SNODENUM	main_expr1.cpp	33;"	d	file:
+SNODENUM	main_final.cpp	32;"	d	file:
+SNODENUM	main_modifiedb4.cpp	32;"	d	file:
+SNcpy	Rev_File/VNE3.cpp	/^void SNcpy(Snet* to, Snet* from){$/;"	f
+SNodeOrder	Rev_File/VNE3.cpp	/^void SNodeOrder(int* output){$/;"	f
+SPath	Rev_File/VNE3.cpp	/^void SPath(int node1, int node2, int* resultarray){$/;"	f
+S_Edge	Phy_topology.cpp	/^S_Edge::S_Edge() {$/;"	f	class:S_Edge
+S_Edge	Phy_topology.cpp	/^S_Edge::S_Edge(int edge_number, int current_node, int adjacent_node, int capacity) {$/;"	f	class:S_Edge
+S_Edge	Phy_topology.h	/^class S_Edge {$/;"	c
+S_Edge	Rev_File/Phy_Topology.cpp	/^S_Edge::S_Edge() {$/;"	f	class:S_Edge
+S_Edge	Rev_File/Phy_Topology.h	/^class S_Edge {$/;"	c
+S_Node	Phy_topology.cpp	/^S_Node::S_Node(int node_number) {$/;"	f	class:S_Node
+S_Node	Phy_topology.h	/^class S_Node {$/;"	c
+S_Node	Rev_File/Phy_Topology.cpp	/^S_Node::S_Node() {$/;"	f	class:S_Node
+S_Node	Rev_File/Phy_Topology.h	/^class S_Node {$/;"	c
+SaveEmbeddedInfo	C_Phy_topology.cpp	/^void C_S_Edge::SaveEmbeddedInfo(int _id, double _demand) {$/;"	f	class:C_S_Edge
+SaveEmbeddedInfo	Phy_topology.cpp	/^void S_Edge::SaveEmbeddedInfo(int _id, double _mean, double _var, double _eps) {$/;"	f	class:S_Edge
+SaveProvisioningInfo	C_Phy_topology.cpp	/^void C_S_Edge::SaveProvisioningInfo(double _bw) {$/;"	f	class:C_S_Edge
+SaveProvisioningInfo	Phy_topology.cpp	/^void S_Edge::SaveProvisioningInfo(double _bw) {$/;"	f	class:S_Edge
+Sedge	Rev_File/VNE3.cpp	/^class Sedge{\/\/물리링크$/;"	c	file:
+SetCFlowTable	C_Request.cpp	/^void C_Request::SetCFlowTable(int f_count) {$/;"	f	class:C_Request
+SetFlowTable	Request.cpp	/^void Request::SetFlowTable(int f_count) {$/;"	f	class:Request
+Set_Accepted	C_Request.cpp	/^void C_Request::Set_Accepted(bool _accepted) {$/;"	f	class:C_Request
+Set_Accepted	Request.cpp	/^void Request::Set_Accepted(bool _accepted) {$/;"	f	class:Request
+Set_Checked	C_Request.cpp	/^void C_Request::Set_Checked(bool _checked) {$/;"	f	class:C_Request
+Set_Checked	Request.cpp	/^void Request::Set_Checked(bool _checked) {$/;"	f	class:Request
+Set_Demand	C_Request.cpp	/^void C_Request::Set_Demand(double _demand) {$/;"	f	class:C_Request
+Set_Epsilon	Request.cpp	/^void Request::Set_Epsilon(double _eps) {$/;"	f	class:Request
+Set_Mean	Request.cpp	/^void Request::Set_Mean(double _mean) {$/;"	f	class:Request
+Set_Nodes	C_Request.cpp	/^void C_Request::Set_Nodes(int node1, int node2) {$/;"	f	class:C_Request
+Set_Nodes	Request.cpp	/^void Request::Set_Nodes(int node1, int node2) {$/;"	f	class:Request
+Set_Total_Demand	C_Request.cpp	/^void C_Request::Set_Total_Demand(double _total_demand) {$/;"	f	class:C_Request
+Set_Total_Mean	Request.cpp	/^void Request::Set_Total_Mean(double _total_mean) {$/;"	f	class:Request
+Set_Total_Value	Request.cpp	/^void Request::Set_Total_Value(double _total_value) {$/;"	f	class:Request
+Set_Total_Var	Request.cpp	/^void Request::Set_Total_Var(double _total_var) {$/;"	f	class:Request
+Set_Used	C_Request.cpp	/^void C_Request::Set_Used(bool _used) {$/;"	f	class:C_Request
+Set_Used	Request.cpp	/^void Request::Set_Used(bool _used) {$/;"	f	class:Request
+Set_Var	Request.cpp	/^void Request::Set_Var(double _var) {$/;"	f	class:Request
+Snet	Rev_File/VNE3.cpp	/^             Snet(int ndnum, int egnum){\/\/이니셜라이져(콘스트럭터)$/;"	f	class:Snet
+Snet	Rev_File/VNE3.cpp	/^class Snet{\/\/물리 네트워크$/;"	c	file:
+Snode	Rev_File/VNE3.cpp	/^             Snode(int egnum){$/;"	f	class:Snode
+Snode	Rev_File/VNE3.cpp	/^class Snode{\/\/물리노드$/;"	c	file:
+Strong_Var	backup/main.cpp	/^	Strong_Var$/;"	e	enum:Alg	file:
+Strong_Var	before_path_main.cpp	/^	Strong_Var$/;"	e	enum:Alg	file:
+Strong_Var	before_path_main2.cpp	/^	Strong_Var$/;"	e	enum:Alg	file:
+Strong_Var	main.cpp	/^	Strong_Var$/;"	e	enum:Alg	file:
+Strong_Var	main_complete.cpp	/^	Strong_Var$/;"	e	enum:Alg	file:
+Strong_Var	main_expr1.cpp	/^	Strong_Var$/;"	e	enum:Alg	file:
+Strong_Var	main_final.cpp	/^	Strong_Var$/;"	e	enum:Alg	file:
+Strong_Var	main_modifiedb4.cpp	/^	Strong_Var$/;"	e	enum:Alg	file:
+SubPath	GraphElements.h	/^	bool SubPath(std::vector<BaseVertex*>& sub_path, BaseVertex* ending_vertex_pt)$/;"	f	class:BasePath
+TARGET	Makefile	/^TARGET = main$/;"	m
+TARGET	backup/Makefile	/^TARGET = main$/;"	m
+TARGET	test_codes/Makefile	/^TARGET = main$/;"	m
+TWIN	Rev_File/VNE3.cpp	12;"	d	file:
+Total_Edge_Number	Rev_File/Phy_Topology.h	/^		int Total_Edge_Number;$/;"	m	class:Phy_Topo
+Total_Node_Number	Rev_File/Phy_Topology.h	/^		int Total_Node_Number;$/;"	m	class:Phy_Topo
+Total_Var	Rev_File/Phy_Topology.h	/^		double Total_Var;$/;"	m	class:S_Edge
+UhpdateAllEdgeInformation	Rev_File/Phy_Topology.cpp	/^void Phy_Topo::UhpdateAllEdgeInformation() {$/;"	f	class:Phy_Topo
+Unmap	Rev_File/VNE3.cpp	/^void Unmap(int VID){$/;"	f
+UpdateAllEdgeInfo	C_Phy_topology.cpp	/^void C_Phy_Topo::UpdateAllEdgeInfo() {$/;"	f	class:C_Phy_Topo
+UpdateAllEdgeInfo	Phy_topology.cpp	/^void Phy_Topo::UpdateAllEdgeInfo() {$/;"	f	class:Phy_Topo
+UpdateEdgeInfo	C_Phy_topology.cpp	/^void C_S_Edge::UpdateEdgeInfo() {$/;"	f	class:C_S_Edge
+UpdateEdgeInfo	Phy_topology.cpp	/^void S_Edge::UpdateEdgeInfo() {$/;"	f	class:S_Edge
+UpdateEdgeInformation	Rev_File/Phy_Topology.cpp	/^void S_Edge::UpdateEdgeInformation() {$/;"	f	class:S_Edge
+VNNUM	Rev_File/VNE3.cpp	11;"	d	file:
+VNRevenue	Rev_File/VNE3.cpp	/^int VNRevenue(Vnet* VN){$/;"	f
+VNs	Rev_File/VNE3.cpp	/^Vnet** VNs;$/;"	v
+VNscpy	Rev_File/VNE3.cpp	/^void VNscpy(Vnet** to, Vnet** from){$/;"	f
+Var	Rev_File/Phy_Topology.h	/^			double Var;$/;"	m	struct:S_Edge::__anon3
+Vedge	Rev_File/VNE3.cpp	/^class Vedge{\/\/가상링크$/;"	c	file:
+VertexPtSetIterator	Graph.h	/^	typedef set<BaseVertex*>::iterator VertexPtSetIterator;$/;"	t	class:Graph
+Vnet	Rev_File/VNE3.cpp	/^             Vnet(int ndnum, int egnum, int sT, int rT){$/;"	f	class:Vnet
+Vnet	Rev_File/VNE3.cpp	/^class Vnet{\/\/가상네트워크$/;"	c	file:
+Vnode	Rev_File/VNE3.cpp	/^             Vnode(int egnum){$/;"	f	class:Vnode
+Vnode	Rev_File/VNE3.cpp	/^class Vnode{\/\/가상노드$/;"	c	file:
+Weight	GraphElements.h	/^	double Weight() const { return m_dWeight; }$/;"	f	class:BasePath
+Weight	GraphElements.h	/^	double Weight() const { return m_dWeight; }$/;"	f	class:BaseVertex
+Weight	GraphElements.h	/^	void Weight(double val) { m_dWeight = val; }$/;"	f	class:BasePath
+Weight	GraphElements.h	/^	void Weight(double val) { m_dWeight = val; }$/;"	f	class:BaseVertex
+WeightGreater	GraphElements.h	/^class WeightGreater$/;"	c
+WeightLess	GraphElements.h	/^class WeightLess$/;"	c
+YenTopKShortestPathsAlg	YenTopKShortestPathsAlg.h	/^	YenTopKShortestPathsAlg(const Graph& graph)$/;"	f	class:YenTopKShortestPathsAlg
+YenTopKShortestPathsAlg	YenTopKShortestPathsAlg.h	/^	YenTopKShortestPathsAlg(const Graph& graph, BaseVertex* pSource, BaseVertex* pTarget)$/;"	f	class:YenTopKShortestPathsAlg
+YenTopKShortestPathsAlg	YenTopKShortestPathsAlg.h	/^class YenTopKShortestPathsAlg$/;"	c
+_import_from_file	Graph.cpp	/^void Graph::_import_from_file( const string& input_file_name )$/;"	f	class:Graph
+_init	YenTopKShortestPathsAlg.cpp	/^void YenTopKShortestPathsAlg::_init()$/;"	f	class:YenTopKShortestPathsAlg
+a	test_codes/sorting.cpp	/^	int a;$/;"	m	struct:edge	file:
+accepted	C_Request.h	/^		bool accepted;$/;"	m	class:C_Request
+accepted	Request.h	/^		bool accepted;$/;"	m	class:Request
+b	test_codes/sorting.cpp	/^	int b;	$/;"	m	struct:edge	file:
+bot	Rev_File/VNE3.cpp	/^    int bot;$/;"	m	class:queue	file:
+bufSN	Rev_File/VNE3.cpp	/^Snet* bufSN; \/\/ 버프 서브넷 네트워크 $/;"	v
+bufVNs	Rev_File/VNE3.cpp	/^Vnet** bufVNs; \/\/버프 가상 네트워크들. 비교 알고리즘을 돌리기 위해 필요.$/;"	v
+c	test_codes/sorting.cpp	/^	int c;$/;"	m	struct:edge	file:
+c_count	C_Request.h	/^		static int c_count;$/;"	m	class:C_Request
+c_count	backup/main.cpp	/^int C_Request::c_count = 0;$/;"	m	class:C_Request	file:
+c_count	before_path_main.cpp	/^int C_Request::c_count = 0;$/;"	m	class:C_Request	file:
+c_count	before_path_main2.cpp	/^int C_Request::c_count = 0;$/;"	m	class:C_Request	file:
+c_count	main.cpp	/^int C_Request::c_count = 0;$/;"	m	class:C_Request	file:
+c_count	main_complete.cpp	/^int C_Request::c_count = 0;$/;"	m	class:C_Request	file:
+c_count	main_expr1.cpp	/^int C_Request::c_count = 0;$/;"	m	class:C_Request	file:
+c_count	main_final.cpp	/^int C_Request::c_count = 0;$/;"	m	class:C_Request	file:
+c_count	main_modifiedb4.cpp	/^int C_Request::c_count = 0;$/;"	m	class:C_Request	file:
+c_flow_count	C_Request.h	/^		int c_flow_count;$/;"	m	class:C_Request
+c_flows	C_Request.h	/^		C_Flow** c_flows;$/;"	m	class:C_Request
+c_inputString	C_Phy_topology.cpp	/^char c_inputString[MAX_SIZE];$/;"	v
+checked	C_Request.h	/^		bool checked;$/;"	m	class:C_Request
+checked	Request.h	/^		bool checked;$/;"	m	class:Request
+clear	DijkstraShortestPathAlg.cpp	/^void DijkstraShortestPathAlg::clear()$/;"	f	class:DijkstraShortestPathAlg
+clear	Graph.cpp	/^void Graph::clear()$/;"	f	class:Graph
+clear	YenTopKShortestPathsAlg.cpp	/^void YenTopKShortestPathsAlg::clear()$/;"	f	class:YenTopKShortestPathsAlg
+conflictG	Rev_File/VNE3.cpp	/^int conflictG[MAXSLINKNUM][MAXSLINKNUM];$/;"	v
+correct_cost_backward	DijkstraShortestPathAlg.cpp	/^void DijkstraShortestPathAlg::correct_cost_backward( BaseVertex* vertex )$/;"	f	class:DijkstraShortestPathAlg
+count	Request.h	/^		static int count;$/;"	m	class:Request
+count	backup/main.cpp	/^int Request::count = 0;$/;"	m	class:Request	file:
+count	before_path_main.cpp	/^int Request::count = 0;$/;"	m	class:Request	file:
+count	before_path_main2.cpp	/^int Request::count = 0;$/;"	m	class:Request	file:
+count	main.cpp	/^int Request::count = 0;$/;"	m	class:Request	file:
+count	main_complete.cpp	/^int Request::count = 0;$/;"	m	class:Request	file:
+count	main_expr1.cpp	/^int Request::count = 0;$/;"	m	class:Request	file:
+count	main_final.cpp	/^int Request::count = 0;$/;"	m	class:Request	file:
+count	main_modifiedb4.cpp	/^int Request::count = 0;$/;"	m	class:Request	file:
+delayed	Rev_File/VNE3.cpp	/^             int delayed;\/\/임베딩 수락여부 검사에서 현재까지 탈락된 횟수$/;"	m	class:Vnet	file:
+demand	C_Phy_topology.h	/^			double demand;$/;"	m	struct:C_S_Edge::__anon2
+demand	C_Request.h	/^		double demand;$/;"	m	class:C_Request
+demand2	C_Request.h	/^		double demand2;$/;"	m	class:C_Flow
+dequeue	Rev_File/VNE3.cpp	/^    int dequeue(){$/;"	f	class:queue
+dest_node	C_Request.h	/^		int dest_node;$/;"	m	class:C_Request
+dest_node	Request.h	/^		int dest_node;$/;"	m	class:Request
+determine_shortest_paths	DijkstraShortestPathAlg.cpp	/^void DijkstraShortestPathAlg::determine_shortest_paths( BaseVertex* source, BaseVertex* sink, bool is_source2sink )$/;"	f	class:DijkstraShortestPathAlg
+dst2	C_Request.h	/^		int dst2;$/;"	m	class:C_Flow
+dst2	Request.h	/^		int dst2;$/;"	m	class:Flow
+edge	test_codes/sorting.cpp	/^struct edge {$/;"	s	file:
+edgeID	Rev_File/VNE3.cpp	/^             int edgeID;\/\/엣지 번호$/;"	m	class:Sedge	file:
+edgeID	Rev_File/VNE3.cpp	/^             int edgeID;\/\/엣지 번호$/;"	m	class:Vedge	file:
+edge_ID	C_Phy_topology.h	/^		int edge_ID;$/;"	m	class:C_S_Edge
+edge_ID	Phy_topology.h	/^		int edge_ID;$/;"	m	class:S_Edge
+edge_node_map	C_Phy_topology.h	/^		int** edge_node_map;	\/\/ table to find the node number connected to each edges$/;"	m	class:C_Phy_Topo
+edge_node_map	Phy_topology.h	/^		int** edge_node_map;	\/\/ table to find the node number connected to each edges$/;"	m	class:Phy_Topo
+edge_number	C_Phy_topology.h	/^		int edge_number;	\/\/ number of edges$/;"	m	class:C_S_Node
+edge_number	Phy_topology.h	/^		int edge_number;	\/\/ number of edges$/;"	m	class:S_Node
+edgenum	Rev_File/VNE3.cpp	/^             int edgenum;\/\/ 링크 수$/;"	m	class:Vnet	file:
+edgenum	Rev_File/VNE3.cpp	/^             int edgenum;\/\/링크 수$/;"	m	class:Snode	file:
+edgenum	Rev_File/VNE3.cpp	/^             int edgenum;\/\/링크 수$/;"	m	class:Vnode	file:
+edgenum	Rev_File/VNE3.cpp	/^             int edgenum;\/\/링크수$/;"	m	class:Snet	file:
+edges	C_Phy_topology.h	/^		C_S_Edge** edges;	\/\/ edges, array of pointers with C_S_Edge* type$/;"	m	class:C_Phy_Topo
+edges	Phy_topology.h	/^		S_Edge** edges;	\/\/ edges, array of pointers with S_Edge* type$/;"	m	class:Phy_Topo
+edges	Rev_File/VNE3.cpp	/^             Sedge** edges;\/\/링크들$/;"	m	class:Snet	file:
+edges	Rev_File/VNE3.cpp	/^             Vedge** edges;\/\/링크들$/;"	m	class:Vnet	file:
+embeddedSNID	Rev_File/VNE3.cpp	/^             int embeddedSNID;\/\/임베딩된 물리 노드 번호$/;"	m	class:Vnode	file:
+embedded_info_iter	C_Phy_topology.h	/^		typedef Embedded_Info_Vector::iterator embedded_info_iter;$/;"	t	class:C_S_Edge
+embedded_info_iter	Phy_topology.h	/^		typedef Embedded_Info_Vector::iterator embedded_info_iter;$/;"	t	class:S_Edge
+embedded_request_ID	C_Phy_topology.h	/^			int embedded_request_ID;$/;"	m	struct:C_S_Edge::__anon2
+embedded_request_ID	Phy_topology.h	/^			int embedded_request_ID;$/;"	m	struct:S_Edge::__anon1
+embeddedpath	Rev_File/VNE3.cpp	/^             int embeddedpath[MAXPATH];\/\/임베딩 된 물리네트워크의 패쓰$/;"	m	class:Vedge	file:
+endT	Rev_File/VNE3.cpp	/^             int endT;\/\/임베딩 했을때 계산된다. 임베딩이 끝나는 시간, 요청이 억셉된 시간은 endT-RqT$/;"	m	class:Vnet	file:
+enqueue	Rev_File/VNE3.cpp	/^    void enqueue(int ev){$/;"	f	class:queue
+epsilon	Phy_topology.h	/^			double epsilon;$/;"	m	struct:S_Edge::__anon1
+epsilon	Request.h	/^		double epsilon;$/;"	m	class:Request
+epsilon2	C_Request.h	/^		double epsilon2;$/;"	m	class:C_Flow
+epsilon2	Request.h	/^		double epsilon2;$/;"	m	class:Flow
+exponential	Rev_File/VNE3.cpp	/^int exponential(int expmean){$/;"	f
+f	Rev_File/VNE3.cpp	/^FILE *f;$/;"	v
+f1	Rev_File/VNE3.cpp	/^FILE *f1;$/;"	v
+filledW	Rev_File/VNE3.cpp	/^             int filledW;\/\/채워진 양$/;"	m	class:Snode	file:
+filledW	Rev_File/VNE3.cpp	/^             int filledW;\/\/채워진 웨이트(임베딩 중에 늘어남)$/;"	m	class:Sedge	file:
+filled_weight	C_Phy_topology.h	/^		double filled_weight;$/;"	m	class:C_S_Edge
+filled_weight	Phy_topology.h	/^		double filled_weight;$/;"	m	class:S_Edge
+find_k_shortest_paths	backup/main.cpp	/^void find_k_shortest_paths(Request request, int top_k, ostream& out_stream, ostream& out_stream2) {$/;"	f
+find_k_shortest_paths	before_path_main.cpp	/^void find_k_shortest_paths(Request request, int top_k, ostream& out_stream, ostream& out_stream2) {$/;"	f
+find_k_shortest_paths	before_path_main2.cpp	/^void find_k_shortest_paths(Request request, int top_k, ostream& out_stream, ostream& out_stream2) {$/;"	f
+find_k_shortest_paths	main_complete.cpp	/^void find_k_shortest_paths(Request request, int top_k, ostream& out_stream, ostream& out_stream2) {$/;"	f
+find_k_shortest_paths	main_final.cpp	/^void find_k_shortest_paths(Request request, int top_k, ostream& out_stream, ostream& out_stream2) {$/;"	f
+find_k_shortest_paths	main_modifiedb4.cpp	/^void find_k_shortest_paths(Request request, int top_k, ostream& out_stream, ostream& out_stream2) {$/;"	f
+find_k_shortest_paths_for_c_new_requests	backup/main.cpp	/^void find_k_shortest_paths_for_c_new_requests(C_Request request, int flow_number, int top_k, ostream& out_stream) {$/;"	f
+find_k_shortest_paths_for_c_new_requests	main.cpp	/^void find_k_shortest_paths_for_c_new_requests(C_Request request, int flow_number, int top_k, ostream& out_stream) {$/;"	f
+find_k_shortest_paths_for_c_new_requests	main_complete.cpp	/^void find_k_shortest_paths_for_c_new_requests(C_Request request, int flow_number, int top_k, ostream& out_stream) {$/;"	f
+find_k_shortest_paths_for_c_new_requests	main_expr1.cpp	/^void find_k_shortest_paths_for_c_new_requests(C_Request request, int flow_number, int top_k, ostream& out_stream) {$/;"	f
+find_k_shortest_paths_for_c_new_requests	main_final.cpp	/^void find_k_shortest_paths_for_c_new_requests(C_Request request, int flow_number, int top_k, ostream& out_stream) {$/;"	f
+find_k_shortest_paths_for_c_new_requests	main_modifiedb4.cpp	/^void find_k_shortest_paths_for_c_new_requests(C_Request request, int flow_number, int top_k, ostream& out_stream) {$/;"	f
+find_k_shortest_paths_for_new_requests	backup/main.cpp	/^void find_k_shortest_paths_for_new_requests(Request request, int flow_number, int top_k, ostream& out_stream) {$/;"	f
+find_k_shortest_paths_for_new_requests	before_path_main.cpp	/^void find_k_shortest_paths_for_new_requests(Request request, int flow_number, int top_k, ostream& out_stream, ostream& out_stream2) {$/;"	f
+find_k_shortest_paths_for_new_requests	before_path_main2.cpp	/^void find_k_shortest_paths_for_new_requests(Request request, int flow_number, int top_k, ostream& out_stream, ostream& out_stream2) {$/;"	f
+find_k_shortest_paths_for_new_requests	main.cpp	/^void find_k_shortest_paths_for_new_requests(Request request, int flow_number, int top_k, ostream& out_stream) {$/;"	f
+find_k_shortest_paths_for_new_requests	main_complete.cpp	/^void find_k_shortest_paths_for_new_requests(Request request, int flow_number, int top_k, ostream& out_stream) {$/;"	f
+find_k_shortest_paths_for_new_requests	main_expr1.cpp	/^void find_k_shortest_paths_for_new_requests(Request request, int flow_number, int top_k, ostream& out_stream) {$/;"	f
+find_k_shortest_paths_for_new_requests	main_final.cpp	/^void find_k_shortest_paths_for_new_requests(Request request, int flow_number, int top_k, ostream& out_stream) {$/;"	f
+find_k_shortest_paths_for_new_requests	main_modifiedb4.cpp	/^void find_k_shortest_paths_for_new_requests(Request request, int flow_number, int top_k, ostream& out_stream) {$/;"	f
+flow_count	Request.h	/^		int flow_count;$/;"	m	class:Request
+flows	Request.h	/^		Flow** flows;		$/;"	m	class:Request
+getID	GraphElements.h	/^	int getID() const { return m_nID; }$/;"	f	class:BaseVertex
+getSlink	Rev_File/VNE3.cpp	/^int getSlink(int node1, int node2){$/;"	f
+get_adjacent_vertices	Graph.cpp	/^void Graph::get_adjacent_vertices( BaseVertex* vertex, set<BaseVertex*>& vertex_set )$/;"	f	class:Graph
+get_edge_code	Graph.cpp	/^int Graph::get_edge_code( const BaseVertex* start_vertex_pt, const BaseVertex* end_vertex_pt ) const$/;"	f	class:Graph
+get_edge_weight	Graph.cpp	/^double Graph::get_edge_weight( const BaseVertex* source, const BaseVertex* sink )$/;"	f	class:Graph
+get_original_edge_weight	Graph.cpp	/^double Graph::get_original_edge_weight( const BaseVertex* source, const BaseVertex* sink )$/;"	f	class:Graph
+get_precedent_vertices	Graph.cpp	/^void Graph::get_precedent_vertices( BaseVertex* vertex, set<BaseVertex*>& vertex_set )$/;"	f	class:Graph
+get_shortest_path	DijkstraShortestPathAlg.cpp	/^BasePath* DijkstraShortestPathAlg::get_shortest_path( BaseVertex* source, BaseVertex* sink )$/;"	f	class:DijkstraShortestPathAlg
+get_shortest_path	YenTopKShortestPathsAlg.cpp	/^BasePath* YenTopKShortestPathsAlg::get_shortest_path( BaseVertex* pSource, BaseVertex* pTarget )$/;"	f	class:YenTopKShortestPathsAlg
+get_shortest_path_flower	DijkstraShortestPathAlg.h	/^	void get_shortest_path_flower(BaseVertex* root)$/;"	f	class:DijkstraShortestPathAlg
+get_shortest_paths	YenTopKShortestPathsAlg.cpp	/^void YenTopKShortestPathsAlg::get_shortest_paths( BaseVertex* pSource, $/;"	f	class:YenTopKShortestPathsAlg
+get_start_distance_at	DijkstraShortestPathAlg.h	/^	double get_start_distance_at(BaseVertex* vertex)$/;"	f	class:DijkstraShortestPathAlg
+get_vertex	Graph.cpp	/^BaseVertex* Graph::get_vertex( int node_id )$/;"	f	class:Graph
+get_vertex_set_pt	Graph.cpp	/^set<BaseVertex*>* Graph::get_vertex_set_pt( BaseVertex* vertex_, map<BaseVertex*, set<BaseVertex*>*>& vertex_container_index )$/;"	f	class:Graph
+has_next	YenTopKShortestPathsAlg.cpp	/^bool YenTopKShortestPathsAlg::has_next()$/;"	f	class:YenTopKShortestPathsAlg
+improve2vertex	DijkstraShortestPathAlg.cpp	/^void DijkstraShortestPathAlg::improve2vertex( BaseVertex* cur_vertex_pt, bool is_source2sink )$/;"	f	class:DijkstraShortestPathAlg
+init_request	backup/main.cpp	/^void init_request(Request* request, C_Request* c_request, int n_request, bool accepted, double qos) {$/;"	f
+init_request	before_path_main.cpp	/^void init_request(Request* request, C_Request* c_request, int n_request, bool accepted) {$/;"	f
+init_request	before_path_main2.cpp	/^void init_request(Request* request, C_Request* c_request, int n_request, bool accepted) {$/;"	f
+init_request	main.cpp	/^void init_request(Request* request, C_Request* c_request, int n_request, bool accepted, double qos) {$/;"	f
+init_request	main_complete.cpp	/^void init_request(Request* request, C_Request* c_request, int n_request, bool accepted, double qos) {$/;"	f
+init_request	main_expr1.cpp	/^void init_request(Request* request, C_Request* c_request, int n_request, bool accepted, double qos) {$/;"	f
+init_request	main_final.cpp	/^void init_request(Request* request, C_Request* c_request, int n_request, bool accepted, double qos) {$/;"	f
+init_request	main_modifiedb4.cpp	/^void init_request(Request* request, C_Request* c_request, int n_request, bool accepted, double qos) {$/;"	f
+inputString	Phy_topology.cpp	/^char inputString[MAX_SIZE];$/;"	v
+inputString	test_codes/get_string_test.cpp	/^char inputString[MAX_SIZE];$/;"	v
+inputString	test_codes/parsing_test.cpp	/^char inputString[MAX_SIZE];$/;"	v
+isEmbedded	Rev_File/VNE3.cpp	/^             int isEmbedded;\/\/임베딩 되었을 때 1$/;"	m	class:Vnet	file:
+isEmpty	Rev_File/VNE3.cpp	/^	int isEmpty(){$/;"	f	class:queue
+isFeasible	Rev_File/VNE3.cpp	/^int isFeasible(Snet FSN){$/;"	f
+itos	backup/main.cpp	/^string itos(int i) {stringstream s; s << i; return s.str(); }$/;"	f
+itos	before_path_main.cpp	/^string itos(int i) {stringstream s; s << i; return s.str(); }$/;"	f
+itos	before_path_main2.cpp	/^string itos(int i) {stringstream s; s << i; return s.str(); }$/;"	f
+itos	main.cpp	/^string itos(int i) {stringstream s; s << i; return s.str(); }$/;"	f
+itos	main_complete.cpp	/^string itos(int i) {stringstream s; s << i; return s.str(); }$/;"	f
+itos	main_expr1.cpp	/^string itos(int i) {stringstream s; s << i; return s.str(); }$/;"	f
+itos	main_final.cpp	/^string itos(int i) {stringstream s; s << i; return s.str(); }$/;"	f
+itos	main_modifiedb4.cpp	/^string itos(int i) {stringstream s; s << i; return s.str(); }$/;"	f
+length	GraphElements.h	/^	int length() { return m_nLength; }$/;"	f	class:BasePath
+links	Rev_File/VNE3.cpp	/^             int* links;\/\/노드의 링크들. 여러개 링크가 있을테니 엣지수 받아서 배열로 저장(엣지 아이디 저장)$/;"	m	class:Snode	file:
+links	Rev_File/VNE3.cpp	/^             int* links;\/\/링크들$/;"	m	class:Vnode	file:
+m_dWeight	GraphElements.h	/^	double m_dWeight;$/;"	m	class:BasePath
+m_dWeight	GraphElements.h	/^	double m_dWeight;$/;"	m	class:BaseVertex
+m_embedded_info_vector	C_Phy_topology.h	/^		Embedded_Info_Vector m_embedded_info_vector;$/;"	m	class:C_S_Edge
+m_embedded_info_vector	Phy_topology.h	/^		Embedded_Info_Vector m_embedded_info_vector;$/;"	m	class:S_Edge
+m_embedded_request_info_vector	Rev_File/Phy_Topology.h	/^		Embedded_Request_Information_Iter m_embedded_request_info_vector;$/;"	m	class:S_Edge
+m_mpDerivationVertexIndex	YenTopKShortestPathsAlg.h	/^	map<BasePath*, BaseVertex*> m_mpDerivationVertexIndex;$/;"	m	class:YenTopKShortestPathsAlg
+m_mpEdgeCodeWeight	Graph.h	/^	map<int, double> m_mpEdgeCodeWeight; $/;"	m	class:Graph
+m_mpFaninVertices	Graph.h	/^	map<BaseVertex*, set<BaseVertex*>*> m_mpFaninVertices;$/;"	m	class:Graph
+m_mpFanoutVertices	Graph.h	/^	map<BaseVertex*, set<BaseVertex*>*> m_mpFanoutVertices;$/;"	m	class:Graph
+m_mpPredecessorVertex	DijkstraShortestPathAlg.h	/^	std::map<BaseVertex*, BaseVertex*> m_mpPredecessorVertex; $/;"	m	class:DijkstraShortestPathAlg
+m_mpStartDistanceIndex	DijkstraShortestPathAlg.h	/^	std::map<BaseVertex*, double> m_mpStartDistanceIndex; $/;"	m	class:DijkstraShortestPathAlg
+m_mpVertexIndex	Graph.h	/^	map<int, BaseVertex*> m_mpVertexIndex;$/;"	m	class:Graph
+m_nEdgeNum	Graph.h	/^	int m_nEdgeNum;$/;"	m	class:Graph
+m_nGeneratedPathNum	YenTopKShortestPathsAlg.h	/^	int m_nGeneratedPathNum;$/;"	m	class:YenTopKShortestPathsAlg
+m_nID	GraphElements.h	/^	int m_nID;$/;"	m	class:BaseVertex
+m_nLength	GraphElements.h	/^	int m_nLength;$/;"	m	class:BasePath
+m_nVertexNum	Graph.h	/^	int m_nVertexNum;$/;"	m	class:Graph
+m_pDirectGraph	DijkstraShortestPathAlg.h	/^	Graph* m_pDirectGraph;$/;"	m	class:DijkstraShortestPathAlg
+m_pGraph	YenTopKShortestPathsAlg.h	/^	Graph* m_pGraph;$/;"	m	class:YenTopKShortestPathsAlg
+m_pSourceVertex	YenTopKShortestPathsAlg.h	/^	BaseVertex* m_pSourceVertex;$/;"	m	class:YenTopKShortestPathsAlg
+m_pTargetVertex	YenTopKShortestPathsAlg.h	/^	BaseVertex* m_pTargetVertex;$/;"	m	class:YenTopKShortestPathsAlg
+m_quCandidateVertices	DijkstraShortestPathAlg.h	/^	std::multiset<BaseVertex*, WeightLess<BaseVertex> > m_quCandidateVertices;$/;"	m	class:DijkstraShortestPathAlg
+m_quPathCandidates	YenTopKShortestPathsAlg.h	/^	multiset<BasePath*, WeightLess<BasePath> > m_quPathCandidates;$/;"	m	class:YenTopKShortestPathsAlg
+m_stDeterminedVertices	DijkstraShortestPathAlg.h	/^	std::set<int> m_stDeterminedVertices;$/;"	m	class:DijkstraShortestPathAlg
+m_stRemovedEdge	Graph.h	/^	set<pair<int,int> > m_stRemovedEdge;$/;"	m	class:Graph
+m_stRemovedVertexIds	Graph.h	/^	set<int> m_stRemovedVertexIds;$/;"	m	class:Graph
+m_vResultList	YenTopKShortestPathsAlg.h	/^	vector<BasePath*> m_vResultList;$/;"	m	class:YenTopKShortestPathsAlg
+m_vtVertexList	GraphElements.h	/^	std::vector<BaseVertex*> m_vtVertexList;$/;"	m	class:BasePath
+m_vtVertices	Graph.h	/^	vector<BaseVertex*> m_vtVertices;$/;"	m	class:Graph
+main	Rev_File/VNE3.cpp	/^int main(){$/;"	f
+main	Rev_File/main.cpp	/^int main(void) {$/;"	f
+main	backup/main.cpp	/^int main(int argc, char* argv[]) {$/;"	f
+main	before_path_main.cpp	/^int main() {$/;"	f
+main	before_path_main2.cpp	/^int main() {$/;"	f
+main	main.cpp	/^int main(int argc, char* argv[]) {$/;"	f
+main	main_complete.cpp	/^int main(int argc, char* argv[]) {$/;"	f
+main	main_expr1.cpp	/^int main(int argc, char* argv[]) {$/;"	f
+main	main_final.cpp	/^int main(int argc, char* argv[]) {$/;"	f
+main	main_modifiedb4.cpp	/^int main(int argc, char* argv[]) {$/;"	f
+main	test_codes/argc_argv.cpp	/^int main(int argc, char *argv[]) {$/;"	f
+main	test_codes/double_argv.cpp	/^int main(int argc, char* argv[]) {$/;"	f
+main	test_codes/get_string_test.cpp	/^int main() {$/;"	f
+main	test_codes/main.cpp	/^int main(int argc, char* argv[]) {$/;"	f
+main	test_codes/parsing_test.cpp	/^int main() {$/;"	f
+main	test_codes/sorting.cpp	/^int main(void) {$/;"	f
+map	Rev_File/VNE3.cpp	/^             int** map;\/\/2차 배열 그래프, adjacent matrix. int*-map[i] 포인터들의 배열.$/;"	m	class:Snet	file:
+map	Rev_File/VNE3.cpp	/^             int** map;\/\/2차배열 그래프, adjacent matrix. int*-map[i] 포인터들의 배열.$/;"	m	class:Vnet	file:
+mean	Phy_topology.h	/^			double mean;$/;"	m	struct:S_Edge::__anon1
+mean	Request.h	/^		double mean;$/;"	m	class:Request
+mean2	C_Request.h	/^		double mean2;$/;"	m	class:C_Flow
+mean2	Request.h	/^		double mean2;$/;"	m	class:Flow
+min_epsilon	C_Request.h	/^		double min_epsilon;$/;"	m	class:C_Request
+min_epsilon	Phy_topology.h	/^		double min_epsilon;$/;"	m	class:S_Edge
+min_epsilon	Request.h	/^		double min_epsilon;$/;"	m	class:Request
+mkConflictG	Rev_File/VNE3.cpp	/^void mkConflictG(){$/;"	f
+n_Accepted_requests	Rev_File/Phy_Topology.h	/^		int n_Accepted_requests;$/;"	m	class:S_Edge
+n_accepted_requests	C_Phy_topology.h	/^		int n_accepted_requests;	$/;"	m	class:C_S_Edge
+n_accepted_requests	Phy_topology.h	/^		int n_accepted_requests;	$/;"	m	class:S_Edge
+next	YenTopKShortestPathsAlg.cpp	/^BasePath* YenTopKShortestPathsAlg::next()$/;"	f	class:YenTopKShortestPathsAlg
+node1	C_Phy_topology.h	/^		int node1;	\/\/ a connected node (small number)$/;"	m	class:C_S_Edge
+node1	Phy_topology.h	/^		int node1;	\/\/ a connected node (small number)$/;"	m	class:S_Edge
+node1	Rev_File/VNE3.cpp	/^             int node1;\/\/엣지에 연결된 노드$/;"	m	class:Sedge	file:
+node1	Rev_File/VNE3.cpp	/^             int node1;\/\/엣지에 연결된 노드$/;"	m	class:Vedge	file:
+node2	C_Phy_topology.h	/^		int node2;	\/\/ another connected node (large number)$/;"	m	class:C_S_Edge
+node2	Phy_topology.h	/^		int node2;	\/\/ another connected node (large number)$/;"	m	class:S_Edge
+node2	Rev_File/VNE3.cpp	/^             int node2;\/\/엣지에 연결된 노드$/;"	m	class:Sedge	file:
+node2	Rev_File/VNE3.cpp	/^             int node2;\/\/엣지에 연결된 노드$/;"	m	class:Vedge	file:
+nodeID	Rev_File/VNE3.cpp	/^             int nodeID;\/\/노드 번호$/;"	m	class:Snode	file:
+nodeID	Rev_File/VNE3.cpp	/^             int nodeID;\/\/노드 번호$/;"	m	class:Vnode	file:
+node_ID	C_Phy_topology.h	/^		int node_ID;$/;"	m	class:C_S_Node
+node_ID	Phy_topology.h	/^		int node_ID;$/;"	m	class:S_Node
+nodenum	Rev_File/VNE3.cpp	/^             int nodenum;\/\/노드 수$/;"	m	class:Vnet	file:
+nodenum	Rev_File/VNE3.cpp	/^             int nodenum;\/\/노드수$/;"	m	class:Snet	file:
+nodes	C_Phy_topology.h	/^		C_S_Node** nodes;	\/\/ nodes, array of pointers with C_S_Node* type$/;"	m	class:C_Phy_Topo
+nodes	Phy_topology.h	/^		S_Node** nodes;	\/\/ nodes, array of pointers with S_Node* type$/;"	m	class:Phy_Topo
+nodes	Rev_File/VNE3.cpp	/^             Snode** nodes;\/\/노드들  Snode* 타입의 포인터들의 배열$/;"	m	class:Snet	file:
+nodes	Rev_File/VNE3.cpp	/^             Vnode** nodes;\/\/노드들 $/;"	m	class:Vnet	file:
+normsinv	Normsinv.cpp	/^long double normsinv(long double p)$/;"	f
+normsinv	test_codes/Normsinv.cpp	/^long double normsinv(long double p)$/;"	f
+operator ()	GraphElements.h	/^	bool operator()(const T& a, const T& b) const$/;"	f	class:WeightGreater
+operator ()	GraphElements.h	/^	bool operator()(const T& a, const T& b) const$/;"	f	class:WeightLess
+operator ()	GraphElements.h	/^	bool operator()(const T* a, const T* b) const$/;"	f	class:WeightGreater
+operator ()	GraphElements.h	/^	bool operator()(const T* a, const T* b) const$/;"	f	class:WeightLess
+operator ()	GraphElements.h	/^	void operator()(const T* it) const$/;"	f	class:DeleteFunc
+operator <	C_Request.h	/^		bool operator <(const C_Request &b) const {$/;"	f	class:C_Request
+operator <	Request.h	/^		bool operator <(const Request &b) const {$/;"	f	class:Request
+operator <	test_codes/sorting.cpp	/^	bool operator <(const edge &b) const {$/;"	f	struct:edge
+phi	Normcdf.cpp	/^double phi(double x)$/;"	f
+phi	test_codes/Normcdf.cpp	/^double phi(double x)$/;"	f
+poisson	Rev_File/VNE3.cpp	/^int poisson(int poimean){$/;"	f
+provisioned_weight	C_Phy_topology.h	/^		double provisioned_weight;$/;"	m	class:C_S_Edge
+provisioned_weight	Phy_topology.h	/^		double provisioned_weight;$/;"	m	class:S_Edge
+queue	Rev_File/VNE3.cpp	/^    queue(int quesize){$/;"	f	class:queue
+queue	Rev_File/VNE3.cpp	/^class queue{$/;"	c	file:
+random	Rev_File/VNE3.cpp	26;"	d	file:
+randomize	Rev_File/VNE3.cpp	25;"	d	file:
+recover_removed_edge	Graph.h	/^	void recover_removed_edge(const pair<int,int> edge)$/;"	f	class:Graph
+recover_removed_edges	Graph.h	/^	void recover_removed_edges()$/;"	f	class:Graph
+recover_removed_vertex	Graph.h	/^	void recover_removed_vertex(int vertex_id)$/;"	f	class:Graph
+recover_removed_vertices	Graph.h	/^	void recover_removed_vertices()$/;"	f	class:Graph
+relax_debug	backup/main.cpp	/^bool relax_debug = false;$/;"	v
+relax_debug	main_complete.cpp	/^bool relax_debug = false;$/;"	v
+relax_debug	main_final.cpp	/^bool relax_debug = false;$/;"	v
+relax_debug	main_modifiedb4.cpp	/^bool relax_debug = true;$/;"	v
+remove_edge	Graph.h	/^	void remove_edge(const pair<int,int> edge)$/;"	f	class:Graph
+remove_vertex	Graph.h	/^	void remove_vertex(const int vertex_id)$/;"	f	class:Graph
+request_ID	C_Request.h	/^		int request_ID;$/;"	m	class:C_Request
+request_ID	Request.h	/^		int request_ID;$/;"	m	class:Request
+result	Rev_File/VNE3.cpp	/^FILE *result;$/;"	v
+scaling_constant	backup/main.cpp	36;"	d	file:
+scaling_constant	before_path_main.cpp	36;"	d	file:
+scaling_constant	before_path_main2.cpp	36;"	d	file:
+setID	GraphElements.h	/^	void setID(int ID_) { m_nID = ID_; }$/;"	f	class:BaseVertex
+set_predecessor_vertex	DijkstraShortestPathAlg.h	/^	void set_predecessor_vertex(BaseVertex* vt1, BaseVertex* vt2)$/;"	f	class:DijkstraShortestPathAlg
+set_start_distance_at	DijkstraShortestPathAlg.h	/^	void set_start_distance_at(BaseVertex* vertex, double weight)$/;"	f	class:DijkstraShortestPathAlg
+sort	Rev_File/VNE3.cpp	/^    void sort(int key){\/\/key = 0 : 가상 네트워크의 링크 개수 , key = 1 : 나가는 시간 $/;"	f	class:queue
+src2	C_Request.h	/^		int src2;$/;"	m	class:C_Flow
+src2	Request.h	/^		int src2;$/;"	m	class:Flow
+src_node	C_Request.h	/^		int src_node;$/;"	m	class:C_Request
+src_node	Request.h	/^		int src_node;$/;"	m	class:Request
+startT	Rev_File/VNE3.cpp	/^             int startT;\/\/요청이 들어온 시간$/;"	m	class:Vnet	file:
+storage	Rev_File/VNE3.cpp	/^    int* storage; \/\/큐 자체$/;"	m	class:queue	file:
+tempSN	Rev_File/VNE3.cpp	/^Snet* tempSN;$/;"	v
+testDijkstraGraph	backup/main.cpp	/^void testDijkstraGraph()$/;"	f
+testDijkstraGraph	before_path_main.cpp	/^void testDijkstraGraph()$/;"	f
+testDijkstraGraph	before_path_main2.cpp	/^void testDijkstraGraph()$/;"	f
+testDijkstraGraph	main.cpp	/^void testDijkstraGraph()$/;"	f
+testDijkstraGraph	main_complete.cpp	/^void testDijkstraGraph()$/;"	f
+testDijkstraGraph	main_expr1.cpp	/^void testDijkstraGraph()$/;"	f
+testDijkstraGraph	main_final.cpp	/^void testDijkstraGraph()$/;"	f
+testDijkstraGraph	main_modifiedb4.cpp	/^void testDijkstraGraph()$/;"	f
+testYenAlg	backup/main.cpp	/^void testYenAlg()$/;"	f
+testYenAlg	before_path_main.cpp	/^void testYenAlg()$/;"	f
+testYenAlg	before_path_main2.cpp	/^void testYenAlg()$/;"	f
+testYenAlg	main.cpp	/^void testYenAlg()$/;"	f
+testYenAlg	main_complete.cpp	/^void testYenAlg()$/;"	f
+testYenAlg	main_expr1.cpp	/^void testYenAlg()$/;"	f
+testYenAlg	main_final.cpp	/^void testYenAlg()$/;"	f
+testYenAlg	main_modifiedb4.cpp	/^void testYenAlg()$/;"	f
+top	Rev_File/VNE3.cpp	/^    int top;$/;"	m	class:queue	file:
+total_demand	C_Request.h	/^		double total_demand;$/;"	m	class:C_Request
+total_edges	C_Phy_topology.h	/^		int total_edges;$/;"	m	class:C_Phy_Topo
+total_edges	Phy_topology.h	/^		int total_edges;$/;"	m	class:Phy_Topo
+total_mean	C_Request.h	/^		double total_mean;$/;"	m	class:C_Request
+total_mean	Request.h	/^		double total_mean;$/;"	m	class:Request
+total_nodes	C_Phy_topology.h	/^		int total_nodes;$/;"	m	class:C_Phy_Topo
+total_nodes	Phy_topology.h	/^		int total_nodes;$/;"	m	class:Phy_Topo
+total_value	Request.h	/^		double total_value;$/;"	m	class:Request
+total_var	C_Request.h	/^		double total_var;$/;"	m	class:C_Request
+total_var	Phy_topology.h	/^		double total_var;	$/;"	m	class:S_Edge
+total_var	Request.h	/^		double total_var;$/;"	m	class:Request
+update_cost_forward	DijkstraShortestPathAlg.cpp	/^BasePath* DijkstraShortestPathAlg::update_cost_forward( BaseVertex* vertex )$/;"	f	class:DijkstraShortestPathAlg
+used	C_Request.h	/^		bool used;$/;"	m	class:C_Request
+used	Request.h	/^		bool used;$/;"	m	class:Request
+var	Phy_topology.h	/^			double var;$/;"	m	struct:S_Edge::__anon1
+var	Request.h	/^		double var;$/;"	m	class:Request
+var2	C_Request.h	/^		double var2;$/;"	m	class:C_Flow
+var2	Request.h	/^		double var2;$/;"	m	class:Flow
+weight	C_Phy_topology.h	/^		double weight;	\/\/ bandwidth of the edge$/;"	m	class:C_S_Edge
+weight	Phy_topology.h	/^		double weight;	\/\/ bandwidth of the edge$/;"	m	class:S_Edge
+weight	Rev_File/VNE3.cpp	/^             int weight;\/\/노드 웨이트! 씨퓌유$/;"	m	class:Snode	file:
+weight	Rev_File/VNE3.cpp	/^             int weight;\/\/웨이트! 밴드위스$/;"	m	class:Vedge	file:
+weight	Rev_File/VNE3.cpp	/^             int weight;\/\/웨이트! 밴드위쓰$/;"	m	class:Sedge	file:
+weight	Rev_File/VNE3.cpp	/^             int weight;\/\/웨이트! 씨퓌유$/;"	m	class:Vnode	file:
+x	Rev_File/VNE3.cpp	/^             int x;\/\/좌표 x값$/;"	m	class:Snode	file:
+y	Rev_File/VNE3.cpp	/^             int y;\/\/좌표 y값$/;"	m	class:Snode	file:
+~BasePath	GraphElements.h	/^	~BasePath(void){}$/;"	f	class:BasePath
+~C_Flow	C_Request.cpp	/^C_Flow::~C_Flow() {$/;"	f	class:C_Flow
+~C_Phy_Topo	C_Phy_topology.cpp	/^C_Phy_Topo::~C_Phy_Topo() {$/;"	f	class:C_Phy_Topo
+~C_Request	C_Request.cpp	/^C_Request::~C_Request() {$/;"	f	class:C_Request
+~C_S_Edge	C_Phy_topology.cpp	/^C_S_Edge::~C_S_Edge() {$/;"	f	class:C_S_Edge
+~C_S_Node	C_Phy_topology.cpp	/^C_S_Node::~C_S_Node() {$/;"	f	class:C_S_Node
+~DijkstraShortestPathAlg	DijkstraShortestPathAlg.h	/^	~DijkstraShortestPathAlg(void){clear();}$/;"	f	class:DijkstraShortestPathAlg
+~Flow	Request.cpp	/^Flow::~Flow() {$/;"	f	class:Flow
+~Graph	Graph.cpp	/^Graph::~Graph(void)$/;"	f	class:Graph
+~Phy_Topo	Phy_topology.cpp	/^Phy_Topo::~Phy_Topo() {$/;"	f	class:Phy_Topo
+~Phy_Topo	Rev_File/Phy_Topology.cpp	/^Phy_Topo::~Phy_Topo() {$/;"	f	class:Phy_Topo
+~Request	Request.cpp	/^Request::~Request() {$/;"	f	class:Request
+~S_Edge	Phy_topology.cpp	/^S_Edge::~S_Edge() {$/;"	f	class:S_Edge
+~S_Edge	Rev_File/Phy_Topology.cpp	/^S_Edge::~S_Edge() {$/;"	f	class:S_Edge
+~S_Node	Phy_topology.cpp	/^S_Node::~S_Node() {$/;"	f	class:S_Node
+~S_Node	Rev_File/Phy_Topology.cpp	/^S_Node::~S_Node() {$/;"	f	class:S_Node
+~YenTopKShortestPathsAlg	YenTopKShortestPathsAlg.h	/^	~YenTopKShortestPathsAlg(void){clear();}$/;"	f	class:YenTopKShortestPathsAlg

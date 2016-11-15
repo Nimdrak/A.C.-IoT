@@ -1,0 +1,5329 @@
+i	0	totalmean	10	flow	0	topk	0
+edge	0	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	0	weight	20	filled_weight	10	var	4
+
+requestID	1	totalmean	10	totalvar	1	edgeID	0	provisioned_bw	4
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	1
+edge	2	weight	20	filled_weight	0	var	0
+edge	12	weight	20	filled_weight	0	var	0
+
+requestID	2	totalmean	10	totalvar	1	edgeID	0	provisioned_bw	1
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	1
+edge	3	weight	20	filled_weight	0	var	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	1
+edge	5	weight	20	filled_weight	0	var	0
+edge	15	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	1
+edge	8	weight	20	filled_weight	0	var	0
+edge	18	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	1
+edge	9	weight	20	filled_weight	0	var	0
+edge	19	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	1
+edge	1	weight	20	filled_weight	0	var	0
+edge	11	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	3
+edge	7	weight	20	filled_weight	0	var	0
+edge	17	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	8	flow	0	topk	3
+edge	10	weight	20	filled_weight	0	var	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	8	flow	0	topk	1
+edge	10	weight	20	filled_weight	8	var	4
+edge	20	weight	20	filled_weight	8	var	4
+
+==================== scenario end ====================
+i	11	totalmean	8	flow	0	topk	1
+edge	1	weight	20	filled_weight	8	var	4
+edge	11	weight	20	filled_weight	8	var	4
+
+==================== scenario end ====================
+i	12	totalmean	8	flow	0	topk	2
+edge	6	weight	20	filled_weight	0	var	0
+edge	16	weight	20	filled_weight	0	var	0
+
+requestID	12	totalmean	8	totalvar	9	edgeID	0	provisioned_bw	2
+==================== scenario end ====================
+i	13	totalmean	8	flow	0	topk	0
+edge	0	weight	27	filled_weight	20	var	5
+
+requestID	13	totalmean	8	totalvar	4	edgeID	0	provisioned_bw	6
+requestID	13	totalmean	8	totalvar	4	edgeID	10	provisioned_bw	1
+requestID	13	totalmean	8	totalvar	4	edgeID	20	provisioned_bw	1
+==================== scenario end ====================
+i	14	totalmean	8	flow	0	topk	1
+edge	4	weight	20	filled_weight	0	var	0
+edge	14	weight	20	filled_weight	0	var	0
+
+requestID	14	totalmean	8	totalvar	4	edgeID	0	provisioned_bw	1
+requestID	14	totalmean	8	totalvar	4	edgeID	1	provisioned_bw	1
+requestID	14	totalmean	8	totalvar	4	edgeID	11	provisioned_bw	1
+==================== scenario end ====================
+i	15	totalmean	7	flow	0	topk	2
+edge	7	weight	20	filled_weight	8	var	4
+edge	17	weight	20	filled_weight	8	var	4
+
+==================== scenario end ====================
+i	16	totalmean	7	flow	0	topk	0
+edge	0	weight	34	filled_weight	28	var	9
+
+requestID	16	totalmean	7	totalvar	9	edgeID	0	provisioned_bw	9
+==================== scenario end ====================
+i	17	totalmean	7	flow	0	topk	2
+edge	8	weight	20	filled_weight	9	var	4
+edge	18	weight	20	filled_weight	9	var	4
+
+==================== scenario end ====================
+i	18	totalmean	6	flow	0	topk	1
+edge	3	weight	20	filled_weight	9	var	4
+edge	13	weight	20	filled_weight	9	var	4
+
+requestID	18	totalmean	6	totalvar	1	edgeID	8	provisioned_bw	1
+requestID	18	totalmean	6	totalvar	1	edgeID	18	provisioned_bw	1
+==================== scenario end ====================
+i	19	totalmean	6	flow	0	topk	1
+edge	6	weight	20	filled_weight	8	var	9
+edge	16	weight	20	filled_weight	8	var	9
+
+==================== scenario end ====================
+scailing_constant	1	total_prov	29	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	0	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	0	weight	20	filled_weight	10	var	4
+
+requestID	1	totalmean	10	totalvar	1	edgeID	0	provisioned_bw	4
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	1
+edge	2	weight	20	filled_weight	0	var	0
+edge	12	weight	20	filled_weight	0	var	0
+
+requestID	2	totalmean	10	totalvar	1	edgeID	0	provisioned_bw	1
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	1
+edge	3	weight	20	filled_weight	0	var	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	1
+edge	5	weight	20	filled_weight	0	var	0
+edge	15	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	1
+edge	8	weight	20	filled_weight	0	var	0
+edge	18	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	1
+edge	9	weight	20	filled_weight	0	var	0
+edge	19	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	1
+edge	1	weight	20	filled_weight	0	var	0
+edge	11	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	3
+edge	7	weight	20	filled_weight	0	var	0
+edge	17	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	8	flow	0	topk	3
+edge	10	weight	20	filled_weight	0	var	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	8	flow	0	topk	1
+edge	10	weight	20	filled_weight	8	var	4
+edge	20	weight	20	filled_weight	8	var	4
+
+==================== scenario end ====================
+i	11	totalmean	8	flow	0	topk	1
+edge	1	weight	20	filled_weight	8	var	4
+edge	11	weight	20	filled_weight	8	var	4
+
+==================== scenario end ====================
+i	12	totalmean	8	flow	0	topk	2
+edge	6	weight	20	filled_weight	0	var	0
+edge	16	weight	20	filled_weight	0	var	0
+
+requestID	12	totalmean	8	totalvar	9	edgeID	0	provisioned_bw	2
+==================== scenario end ====================
+i	13	totalmean	8	flow	0	topk	0
+edge	0	weight	27	filled_weight	20	var	5
+
+requestID	13	totalmean	8	totalvar	4	edgeID	0	provisioned_bw	6
+requestID	13	totalmean	8	totalvar	4	edgeID	10	provisioned_bw	1
+requestID	13	totalmean	8	totalvar	4	edgeID	20	provisioned_bw	1
+==================== scenario end ====================
+i	14	totalmean	8	flow	0	topk	1
+edge	4	weight	20	filled_weight	0	var	0
+edge	14	weight	20	filled_weight	0	var	0
+
+requestID	14	totalmean	8	totalvar	4	edgeID	0	provisioned_bw	1
+requestID	14	totalmean	8	totalvar	4	edgeID	1	provisioned_bw	1
+requestID	14	totalmean	8	totalvar	4	edgeID	11	provisioned_bw	1
+==================== scenario end ====================
+i	15	totalmean	7	flow	0	topk	2
+edge	7	weight	20	filled_weight	8	var	4
+edge	17	weight	20	filled_weight	8	var	4
+
+==================== scenario end ====================
+i	16	totalmean	7	flow	0	topk	1
+edge	4	weight	20	filled_weight	8	var	4
+edge	14	weight	20	filled_weight	8	var	4
+
+requestID	16	totalmean	7	totalvar	9	edgeID	0	provisioned_bw	2
+requestID	16	totalmean	7	totalvar	9	edgeID	4	provisioned_bw	1
+requestID	16	totalmean	7	totalvar	9	edgeID	14	provisioned_bw	1
+==================== scenario end ====================
+i	17	totalmean	7	flow	0	topk	2
+edge	8	weight	20	filled_weight	9	var	4
+edge	18	weight	20	filled_weight	9	var	4
+
+==================== scenario end ====================
+i	18	totalmean	6	flow	0	topk	1
+edge	3	weight	20	filled_weight	9	var	4
+edge	13	weight	20	filled_weight	9	var	4
+
+requestID	18	totalmean	6	totalvar	1	edgeID	8	provisioned_bw	1
+requestID	18	totalmean	6	totalvar	1	edgeID	18	provisioned_bw	1
+==================== scenario end ====================
+i	19	totalmean	6	flow	0	topk	1
+edge	6	weight	20	filled_weight	8	var	9
+edge	16	weight	20	filled_weight	8	var	9
+
+requestID	19	totalmean	6	totalvar	4	edgeID	4	provisioned_bw	1
+requestID	19	totalmean	6	totalvar	4	edgeID	14	provisioned_bw	1
+==================== scenario end ====================
+scailing_constant	2	total_prov	26	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	0	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	1
+edge	9	weight	20	filled_weight	0	var	0
+edge	19	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	1
+edge	2	weight	20	filled_weight	0	var	0
+edge	12	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	1
+edge	3	weight	20	filled_weight	0	var	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	1
+edge	5	weight	20	filled_weight	0	var	0
+edge	15	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	1
+edge	8	weight	20	filled_weight	0	var	0
+edge	18	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	3
+edge	4	weight	20	filled_weight	0	var	0
+edge	14	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	1
+edge	1	weight	20	filled_weight	0	var	0
+edge	11	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	3
+edge	7	weight	20	filled_weight	0	var	0
+edge	17	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	8	flow	0	topk	3
+edge	10	weight	20	filled_weight	0	var	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	8	flow	0	topk	1
+edge	10	weight	20	filled_weight	8	var	4
+edge	20	weight	20	filled_weight	8	var	4
+
+==================== scenario end ====================
+i	11	totalmean	8	flow	0	topk	1
+edge	1	weight	20	filled_weight	8	var	4
+edge	11	weight	20	filled_weight	8	var	4
+
+==================== scenario end ====================
+i	12	totalmean	8	flow	0	topk	2
+edge	6	weight	20	filled_weight	0	var	0
+edge	16	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	8	flow	0	topk	0
+edge	0	weight	20	filled_weight	10	var	4
+
+requestID	13	totalmean	8	totalvar	4	edgeID	0	provisioned_bw	3
+requestID	13	totalmean	8	totalvar	4	edgeID	10	provisioned_bw	1
+requestID	13	totalmean	8	totalvar	4	edgeID	20	provisioned_bw	1
+==================== scenario end ====================
+i	14	totalmean	8	flow	0	topk	1
+edge	4	weight	20	filled_weight	9	var	4
+edge	14	weight	20	filled_weight	9	var	4
+
+requestID	14	totalmean	8	totalvar	4	edgeID	0	provisioned_bw	1
+requestID	14	totalmean	8	totalvar	4	edgeID	1	provisioned_bw	1
+requestID	14	totalmean	8	totalvar	4	edgeID	4	provisioned_bw	2
+requestID	14	totalmean	8	totalvar	4	edgeID	11	provisioned_bw	1
+requestID	14	totalmean	8	totalvar	4	edgeID	14	provisioned_bw	2
+==================== scenario end ====================
+i	15	totalmean	7	flow	0	topk	2
+edge	7	weight	20	filled_weight	8	var	4
+edge	17	weight	20	filled_weight	8	var	4
+
+==================== scenario end ====================
+i	16	totalmean	7	flow	0	topk	3
+edge	5	weight	20	filled_weight	9	var	4
+edge	15	weight	20	filled_weight	9	var	4
+
+requestID	16	totalmean	7	totalvar	9	edgeID	0	provisioned_bw	1
+requestID	16	totalmean	7	totalvar	9	edgeID	4	provisioned_bw	2
+requestID	16	totalmean	7	totalvar	9	edgeID	5	provisioned_bw	2
+requestID	16	totalmean	7	totalvar	9	edgeID	14	provisioned_bw	2
+requestID	16	totalmean	7	totalvar	9	edgeID	15	provisioned_bw	2
+==================== scenario end ====================
+i	17	totalmean	7	flow	0	topk	2
+edge	8	weight	20	filled_weight	9	var	4
+edge	18	weight	20	filled_weight	9	var	4
+
+requestID	17	totalmean	7	totalvar	1	edgeID	5	provisioned_bw	1
+requestID	17	totalmean	7	totalvar	1	edgeID	15	provisioned_bw	1
+==================== scenario end ====================
+i	18	totalmean	6	flow	0	topk	1
+edge	3	weight	20	filled_weight	9	var	4
+edge	13	weight	20	filled_weight	9	var	4
+
+requestID	18	totalmean	6	totalvar	1	edgeID	8	provisioned_bw	1
+requestID	18	totalmean	6	totalvar	1	edgeID	18	provisioned_bw	1
+==================== scenario end ====================
+i	19	totalmean	6	flow	0	topk	1
+edge	6	weight	20	filled_weight	8	var	9
+edge	16	weight	20	filled_weight	8	var	9
+
+==================== scenario end ====================
+scailing_constant	5	total_prov	25	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	0	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	1
+edge	9	weight	20	filled_weight	0	var	0
+edge	19	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	1
+edge	2	weight	20	filled_weight	0	var	0
+edge	12	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	1
+edge	3	weight	20	filled_weight	0	var	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	1
+edge	5	weight	20	filled_weight	0	var	0
+edge	15	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	1
+edge	8	weight	20	filled_weight	0	var	0
+edge	18	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	3
+edge	4	weight	20	filled_weight	0	var	0
+edge	14	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	1
+edge	1	weight	20	filled_weight	0	var	0
+edge	11	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	3
+edge	7	weight	20	filled_weight	0	var	0
+edge	17	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	8	flow	0	topk	3
+edge	10	weight	20	filled_weight	0	var	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	8	flow	0	topk	1
+edge	10	weight	20	filled_weight	8	var	4
+edge	20	weight	20	filled_weight	8	var	4
+
+==================== scenario end ====================
+i	11	totalmean	8	flow	0	topk	1
+edge	1	weight	20	filled_weight	8	var	4
+edge	11	weight	20	filled_weight	8	var	4
+
+==================== scenario end ====================
+i	12	totalmean	8	flow	0	topk	2
+edge	6	weight	20	filled_weight	0	var	0
+edge	16	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	8	flow	0	topk	2
+edge	7	weight	20	filled_weight	8	var	4
+edge	17	weight	20	filled_weight	8	var	4
+
+requestID	13	totalmean	8	totalvar	4	edgeID	7	provisioned_bw	1
+requestID	13	totalmean	8	totalvar	4	edgeID	10	provisioned_bw	1
+requestID	13	totalmean	8	totalvar	4	edgeID	17	provisioned_bw	1
+requestID	13	totalmean	8	totalvar	4	edgeID	20	provisioned_bw	1
+==================== scenario end ====================
+i	14	totalmean	8	flow	0	topk	0
+edge	0	weight	20	filled_weight	10	var	4
+
+requestID	14	totalmean	8	totalvar	4	edgeID	0	provisioned_bw	3
+requestID	14	totalmean	8	totalvar	4	edgeID	1	provisioned_bw	1
+requestID	14	totalmean	8	totalvar	4	edgeID	11	provisioned_bw	1
+==================== scenario end ====================
+i	15	totalmean	7	flow	0	topk	1
+edge	5	weight	20	filled_weight	9	var	4
+edge	15	weight	20	filled_weight	9	var	4
+
+requestID	15	totalmean	7	totalvar	4	edgeID	0	provisioned_bw	1
+requestID	15	totalmean	7	totalvar	4	edgeID	5	provisioned_bw	1
+requestID	15	totalmean	7	totalvar	4	edgeID	7	provisioned_bw	1
+requestID	15	totalmean	7	totalvar	4	edgeID	15	provisioned_bw	1
+requestID	15	totalmean	7	totalvar	4	edgeID	17	provisioned_bw	1
+==================== scenario end ====================
+i	16	totalmean	7	flow	0	topk	1
+edge	4	weight	20	filled_weight	9	var	4
+edge	14	weight	20	filled_weight	9	var	4
+
+requestID	16	totalmean	7	totalvar	9	edgeID	0	provisioned_bw	1
+requestID	16	totalmean	7	totalvar	9	edgeID	4	provisioned_bw	2
+requestID	16	totalmean	7	totalvar	9	edgeID	5	provisioned_bw	2
+requestID	16	totalmean	7	totalvar	9	edgeID	14	provisioned_bw	2
+requestID	16	totalmean	7	totalvar	9	edgeID	15	provisioned_bw	2
+==================== scenario end ====================
+i	17	totalmean	7	flow	0	topk	2
+edge	8	weight	20	filled_weight	9	var	4
+edge	18	weight	20	filled_weight	9	var	4
+
+==================== scenario end ====================
+i	18	totalmean	6	flow	0	topk	1
+edge	3	weight	20	filled_weight	9	var	4
+edge	13	weight	20	filled_weight	9	var	4
+
+requestID	18	totalmean	6	totalvar	1	edgeID	8	provisioned_bw	1
+requestID	18	totalmean	6	totalvar	1	edgeID	18	provisioned_bw	1
+==================== scenario end ====================
+i	19	totalmean	6	flow	0	topk	1
+edge	6	weight	20	filled_weight	8	var	9
+edge	16	weight	20	filled_weight	8	var	9
+
+requestID	19	totalmean	6	totalvar	4	edgeID	4	provisioned_bw	1
+requestID	19	totalmean	6	totalvar	4	edgeID	14	provisioned_bw	1
+==================== scenario end ====================
+scailing_constant	10	total_prov	27	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	0	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	1
+edge	9	weight	20	filled_weight	0	var	0
+edge	19	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	1
+edge	2	weight	20	filled_weight	0	var	0
+edge	12	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	1
+edge	3	weight	20	filled_weight	0	var	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	1
+edge	5	weight	20	filled_weight	0	var	0
+edge	15	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	1
+edge	8	weight	20	filled_weight	0	var	0
+edge	18	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	3
+edge	4	weight	20	filled_weight	0	var	0
+edge	14	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	1
+edge	1	weight	20	filled_weight	0	var	0
+edge	11	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	3
+edge	7	weight	20	filled_weight	0	var	0
+edge	17	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	8	flow	0	topk	3
+edge	10	weight	20	filled_weight	0	var	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	8	flow	0	topk	1
+edge	10	weight	20	filled_weight	8	var	4
+edge	20	weight	20	filled_weight	8	var	4
+
+==================== scenario end ====================
+i	11	totalmean	8	flow	0	topk	1
+edge	1	weight	20	filled_weight	8	var	4
+edge	11	weight	20	filled_weight	8	var	4
+
+==================== scenario end ====================
+i	12	totalmean	8	flow	0	topk	2
+edge	6	weight	20	filled_weight	0	var	0
+edge	16	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	8	flow	0	topk	2
+edge	7	weight	20	filled_weight	8	var	4
+edge	17	weight	20	filled_weight	8	var	4
+
+requestID	13	totalmean	8	totalvar	4	edgeID	7	provisioned_bw	1
+requestID	13	totalmean	8	totalvar	4	edgeID	10	provisioned_bw	1
+requestID	13	totalmean	8	totalvar	4	edgeID	17	provisioned_bw	1
+requestID	13	totalmean	8	totalvar	4	edgeID	20	provisioned_bw	1
+==================== scenario end ====================
+i	14	totalmean	8	flow	0	topk	0
+edge	0	weight	20	filled_weight	10	var	4
+
+requestID	14	totalmean	8	totalvar	4	edgeID	0	provisioned_bw	3
+requestID	14	totalmean	8	totalvar	4	edgeID	1	provisioned_bw	1
+requestID	14	totalmean	8	totalvar	4	edgeID	11	provisioned_bw	1
+==================== scenario end ====================
+i	15	totalmean	7	flow	0	topk	1
+edge	5	weight	20	filled_weight	9	var	4
+edge	15	weight	20	filled_weight	9	var	4
+
+requestID	15	totalmean	7	totalvar	4	edgeID	0	provisioned_bw	1
+requestID	15	totalmean	7	totalvar	4	edgeID	5	provisioned_bw	1
+requestID	15	totalmean	7	totalvar	4	edgeID	7	provisioned_bw	1
+requestID	15	totalmean	7	totalvar	4	edgeID	15	provisioned_bw	1
+requestID	15	totalmean	7	totalvar	4	edgeID	17	provisioned_bw	1
+==================== scenario end ====================
+i	16	totalmean	7	flow	0	topk	1
+edge	4	weight	20	filled_weight	9	var	4
+edge	14	weight	20	filled_weight	9	var	4
+
+requestID	16	totalmean	7	totalvar	9	edgeID	0	provisioned_bw	1
+requestID	16	totalmean	7	totalvar	9	edgeID	4	provisioned_bw	2
+requestID	16	totalmean	7	totalvar	9	edgeID	5	provisioned_bw	2
+requestID	16	totalmean	7	totalvar	9	edgeID	14	provisioned_bw	2
+requestID	16	totalmean	7	totalvar	9	edgeID	15	provisioned_bw	2
+==================== scenario end ====================
+i	17	totalmean	7	flow	0	topk	2
+edge	8	weight	20	filled_weight	9	var	4
+edge	18	weight	20	filled_weight	9	var	4
+
+==================== scenario end ====================
+i	18	totalmean	6	flow	0	topk	1
+edge	3	weight	20	filled_weight	9	var	4
+edge	13	weight	20	filled_weight	9	var	4
+
+requestID	18	totalmean	6	totalvar	1	edgeID	8	provisioned_bw	1
+requestID	18	totalmean	6	totalvar	1	edgeID	18	provisioned_bw	1
+==================== scenario end ====================
+i	19	totalmean	6	flow	0	topk	1
+edge	6	weight	20	filled_weight	8	var	9
+edge	16	weight	20	filled_weight	8	var	9
+
+requestID	19	totalmean	6	totalvar	4	edgeID	4	provisioned_bw	1
+requestID	19	totalmean	6	totalvar	4	edgeID	14	provisioned_bw	1
+==================== scenario end ====================
+scailing_constant	20	total_prov	27	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	0	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	0	weight	20	filled_weight	10	var	4
+
+requestID	1	totalmean	10	totalvar	1	edgeID	0	provisioned_bw	4
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	1
+edge	4	weight	20	filled_weight	0	var	0
+edge	14	weight	20	filled_weight	0	var	0
+
+requestID	2	totalmean	10	totalvar	1	edgeID	0	provisioned_bw	1
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	1
+edge	7	weight	20	filled_weight	0	var	0
+edge	17	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	1
+edge	9	weight	20	filled_weight	0	var	0
+edge	19	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	1
+edge	3	weight	20	filled_weight	0	var	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	1
+edge	1	weight	20	filled_weight	0	var	0
+edge	11	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	0
+edge	0	weight	25	filled_weight	20	var	5
+
+requestID	7	totalmean	8	totalvar	4	edgeID	0	provisioned_bw	8
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	1
+edge	6	weight	20	filled_weight	0	var	0
+edge	16	weight	20	filled_weight	0	var	0
+
+requestID	8	totalmean	8	totalvar	4	edgeID	0	provisioned_bw	1
+==================== scenario end ====================
+i	9	totalmean	8	flow	0	topk	0
+edge	0	weight	34	filled_weight	28	var	9
+
+requestID	9	totalmean	8	totalvar	4	edgeID	0	provisioned_bw	8
+==================== scenario end ====================
+i	10	totalmean	8	flow	0	topk	1
+edge	5	weight	20	filled_weight	0	var	0
+edge	15	weight	20	filled_weight	0	var	0
+
+requestID	10	totalmean	8	totalvar	1	edgeID	0	provisioned_bw	1
+==================== scenario end ====================
+i	11	totalmean	8	flow	0	topk	1
+edge	6	weight	20	filled_weight	8	var	4
+edge	16	weight	20	filled_weight	8	var	4
+
+==================== scenario end ====================
+i	12	totalmean	8	flow	0	topk	0
+edge	0	weight	43	filled_weight	36	var	13
+
+requestID	12	totalmean	8	totalvar	9	edgeID	0	provisioned_bw	9
+==================== scenario end ====================
+i	13	totalmean	8	flow	0	topk	1
+edge	10	weight	20	filled_weight	0	var	0
+edge	20	weight	20	filled_weight	0	var	0
+
+requestID	13	totalmean	8	totalvar	4	edgeID	0	provisioned_bw	1
+==================== scenario end ====================
+i	14	totalmean	8	flow	0	topk	0
+edge	0	weight	53	filled_weight	44	var	22
+
+requestID	14	totalmean	8	totalvar	4	edgeID	0	provisioned_bw	8
+==================== scenario end ====================
+i	15	totalmean	7	flow	0	topk	0
+edge	0	weight	61	filled_weight	52	var	26
+
+requestID	15	totalmean	7	totalvar	4	edgeID	0	provisioned_bw	8
+==================== scenario end ====================
+i	16	totalmean	7	flow	0	topk	1
+edge	2	weight	20	filled_weight	0	var	0
+edge	12	weight	20	filled_weight	0	var	0
+
+requestID	16	totalmean	7	totalvar	9	edgeID	0	provisioned_bw	1
+==================== scenario end ====================
+i	17	totalmean	7	flow	0	topk	0
+edge	0	weight	70	filled_weight	59	var	30
+
+requestID	17	totalmean	7	totalvar	1	edgeID	0	provisioned_bw	6
+==================== scenario end ====================
+i	18	totalmean	6	flow	0	topk	1
+edge	3	weight	20	filled_weight	9	var	4
+edge	13	weight	20	filled_weight	9	var	4
+
+==================== scenario end ====================
+i	19	totalmean	6	flow	0	topk	1
+edge	8	weight	20	filled_weight	0	var	0
+edge	18	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	1	total_prov	56	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	0	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	0	weight	20	filled_weight	10	var	4
+
+requestID	1	totalmean	10	totalvar	1	edgeID	0	provisioned_bw	4
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	1
+edge	4	weight	20	filled_weight	0	var	0
+edge	14	weight	20	filled_weight	0	var	0
+
+requestID	2	totalmean	10	totalvar	1	edgeID	0	provisioned_bw	1
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	1
+edge	7	weight	20	filled_weight	0	var	0
+edge	17	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	1
+edge	9	weight	20	filled_weight	0	var	0
+edge	19	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	1
+edge	3	weight	20	filled_weight	0	var	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	1
+edge	1	weight	20	filled_weight	0	var	0
+edge	11	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	0
+edge	0	weight	25	filled_weight	20	var	5
+
+requestID	7	totalmean	8	totalvar	4	edgeID	0	provisioned_bw	8
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	1
+edge	6	weight	20	filled_weight	0	var	0
+edge	16	weight	20	filled_weight	0	var	0
+
+requestID	8	totalmean	8	totalvar	4	edgeID	0	provisioned_bw	1
+==================== scenario end ====================
+i	9	totalmean	8	flow	0	topk	0
+edge	0	weight	34	filled_weight	28	var	9
+
+requestID	9	totalmean	8	totalvar	4	edgeID	0	provisioned_bw	8
+==================== scenario end ====================
+i	10	totalmean	8	flow	0	topk	1
+edge	5	weight	20	filled_weight	0	var	0
+edge	15	weight	20	filled_weight	0	var	0
+
+requestID	10	totalmean	8	totalvar	1	edgeID	0	provisioned_bw	1
+==================== scenario end ====================
+i	11	totalmean	8	flow	0	topk	1
+edge	6	weight	20	filled_weight	8	var	4
+edge	16	weight	20	filled_weight	8	var	4
+
+==================== scenario end ====================
+i	12	totalmean	8	flow	0	topk	0
+edge	0	weight	43	filled_weight	36	var	13
+
+requestID	12	totalmean	8	totalvar	9	edgeID	0	provisioned_bw	9
+==================== scenario end ====================
+i	13	totalmean	8	flow	0	topk	1
+edge	10	weight	20	filled_weight	0	var	0
+edge	20	weight	20	filled_weight	0	var	0
+
+requestID	13	totalmean	8	totalvar	4	edgeID	0	provisioned_bw	1
+==================== scenario end ====================
+i	14	totalmean	8	flow	0	topk	0
+edge	0	weight	53	filled_weight	44	var	22
+
+requestID	14	totalmean	8	totalvar	4	edgeID	0	provisioned_bw	8
+==================== scenario end ====================
+i	15	totalmean	7	flow	0	topk	1
+edge	7	weight	20	filled_weight	9	var	4
+edge	17	weight	20	filled_weight	9	var	4
+
+requestID	15	totalmean	7	totalvar	4	edgeID	0	provisioned_bw	1
+requestID	15	totalmean	7	totalvar	4	edgeID	7	provisioned_bw	1
+requestID	15	totalmean	7	totalvar	4	edgeID	17	provisioned_bw	1
+==================== scenario end ====================
+i	16	totalmean	7	flow	0	topk	1
+edge	2	weight	20	filled_weight	0	var	0
+edge	12	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	7	flow	0	topk	1
+edge	9	weight	20	filled_weight	9	var	4
+edge	19	weight	20	filled_weight	9	var	4
+
+==================== scenario end ====================
+i	18	totalmean	6	flow	0	topk	1
+edge	3	weight	20	filled_weight	9	var	4
+edge	13	weight	20	filled_weight	9	var	4
+
+==================== scenario end ====================
+i	19	totalmean	6	flow	0	topk	1
+edge	8	weight	20	filled_weight	0	var	0
+edge	18	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	2	total_prov	44	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	0	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	1
+edge	10	weight	20	filled_weight	0	var	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	1
+edge	4	weight	20	filled_weight	0	var	0
+edge	14	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	1
+edge	7	weight	20	filled_weight	0	var	0
+edge	17	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	1
+edge	9	weight	20	filled_weight	0	var	0
+edge	19	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	1
+edge	3	weight	20	filled_weight	0	var	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	1
+edge	1	weight	20	filled_weight	0	var	0
+edge	11	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	0
+edge	0	weight	20	filled_weight	10	var	4
+
+requestID	7	totalmean	8	totalvar	4	edgeID	0	provisioned_bw	3
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	1
+edge	6	weight	20	filled_weight	0	var	0
+edge	16	weight	20	filled_weight	0	var	0
+
+requestID	8	totalmean	8	totalvar	4	edgeID	0	provisioned_bw	1
+==================== scenario end ====================
+i	9	totalmean	8	flow	0	topk	1
+edge	3	weight	20	filled_weight	9	var	4
+edge	13	weight	20	filled_weight	9	var	4
+
+requestID	9	totalmean	8	totalvar	4	edgeID	3	provisioned_bw	2
+requestID	9	totalmean	8	totalvar	4	edgeID	13	provisioned_bw	2
+==================== scenario end ====================
+i	10	totalmean	8	flow	0	topk	1
+edge	5	weight	20	filled_weight	0	var	0
+edge	15	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	8	flow	0	topk	1
+edge	6	weight	20	filled_weight	8	var	4
+edge	16	weight	20	filled_weight	8	var	4
+
+==================== scenario end ====================
+i	12	totalmean	8	flow	0	topk	0
+edge	0	weight	24	filled_weight	18	var	8
+
+requestID	12	totalmean	8	totalvar	9	edgeID	0	provisioned_bw	9
+==================== scenario end ====================
+i	13	totalmean	8	flow	0	topk	1
+edge	10	weight	20	filled_weight	10	var	1
+edge	20	weight	20	filled_weight	10	var	1
+
+requestID	13	totalmean	8	totalvar	4	edgeID	0	provisioned_bw	1
+requestID	13	totalmean	8	totalvar	4	edgeID	10	provisioned_bw	2
+requestID	13	totalmean	8	totalvar	4	edgeID	20	provisioned_bw	2
+==================== scenario end ====================
+i	14	totalmean	8	flow	0	topk	1
+edge	4	weight	20	filled_weight	10	var	1
+edge	14	weight	20	filled_weight	10	var	1
+
+requestID	14	totalmean	8	totalvar	4	edgeID	4	provisioned_bw	2
+requestID	14	totalmean	8	totalvar	4	edgeID	14	provisioned_bw	2
+==================== scenario end ====================
+i	15	totalmean	7	flow	0	topk	1
+edge	7	weight	20	filled_weight	9	var	4
+edge	17	weight	20	filled_weight	9	var	4
+
+requestID	15	totalmean	7	totalvar	4	edgeID	7	provisioned_bw	1
+requestID	15	totalmean	7	totalvar	4	edgeID	17	provisioned_bw	1
+==================== scenario end ====================
+i	16	totalmean	7	flow	0	topk	1
+edge	2	weight	20	filled_weight	0	var	0
+edge	12	weight	20	filled_weight	0	var	0
+
+requestID	16	totalmean	7	totalvar	9	edgeID	0	provisioned_bw	1
+==================== scenario end ====================
+i	17	totalmean	7	flow	0	topk	1
+edge	9	weight	20	filled_weight	9	var	4
+edge	19	weight	20	filled_weight	9	var	4
+
+==================== scenario end ====================
+i	18	totalmean	6	flow	0	topk	0
+edge	0	weight	35	filled_weight	26	var	17
+
+requestID	18	totalmean	6	totalvar	1	edgeID	0	provisioned_bw	5
+==================== scenario end ====================
+i	19	totalmean	6	flow	0	topk	1
+edge	8	weight	20	filled_weight	0	var	0
+edge	18	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	5	total_prov	34	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	0	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	1
+edge	10	weight	20	filled_weight	0	var	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	1
+edge	4	weight	20	filled_weight	0	var	0
+edge	14	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	1
+edge	7	weight	20	filled_weight	0	var	0
+edge	17	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	1
+edge	9	weight	20	filled_weight	0	var	0
+edge	19	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	1
+edge	3	weight	20	filled_weight	0	var	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	1
+edge	1	weight	20	filled_weight	0	var	0
+edge	11	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	0
+edge	0	weight	20	filled_weight	10	var	4
+
+requestID	7	totalmean	8	totalvar	4	edgeID	0	provisioned_bw	3
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	1
+edge	6	weight	20	filled_weight	0	var	0
+edge	16	weight	20	filled_weight	0	var	0
+
+requestID	8	totalmean	8	totalvar	4	edgeID	0	provisioned_bw	1
+==================== scenario end ====================
+i	9	totalmean	8	flow	0	topk	1
+edge	3	weight	20	filled_weight	9	var	4
+edge	13	weight	20	filled_weight	9	var	4
+
+requestID	9	totalmean	8	totalvar	4	edgeID	3	provisioned_bw	2
+requestID	9	totalmean	8	totalvar	4	edgeID	13	provisioned_bw	2
+==================== scenario end ====================
+i	10	totalmean	8	flow	0	topk	1
+edge	5	weight	20	filled_weight	0	var	0
+edge	15	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	8	flow	0	topk	1
+edge	6	weight	20	filled_weight	8	var	4
+edge	16	weight	20	filled_weight	8	var	4
+
+==================== scenario end ====================
+i	12	totalmean	8	flow	0	topk	0
+edge	0	weight	24	filled_weight	18	var	8
+
+requestID	12	totalmean	8	totalvar	9	edgeID	0	provisioned_bw	9
+==================== scenario end ====================
+i	13	totalmean	8	flow	0	topk	1
+edge	10	weight	20	filled_weight	10	var	1
+edge	20	weight	20	filled_weight	10	var	1
+
+requestID	13	totalmean	8	totalvar	4	edgeID	0	provisioned_bw	1
+requestID	13	totalmean	8	totalvar	4	edgeID	10	provisioned_bw	2
+requestID	13	totalmean	8	totalvar	4	edgeID	20	provisioned_bw	2
+==================== scenario end ====================
+i	14	totalmean	8	flow	0	topk	1
+edge	4	weight	20	filled_weight	10	var	1
+edge	14	weight	20	filled_weight	10	var	1
+
+requestID	14	totalmean	8	totalvar	4	edgeID	4	provisioned_bw	2
+requestID	14	totalmean	8	totalvar	4	edgeID	14	provisioned_bw	2
+==================== scenario end ====================
+i	15	totalmean	7	flow	0	topk	1
+edge	7	weight	20	filled_weight	9	var	4
+edge	17	weight	20	filled_weight	9	var	4
+
+requestID	15	totalmean	7	totalvar	4	edgeID	7	provisioned_bw	1
+requestID	15	totalmean	7	totalvar	4	edgeID	17	provisioned_bw	1
+==================== scenario end ====================
+i	16	totalmean	7	flow	0	topk	1
+edge	2	weight	20	filled_weight	0	var	0
+edge	12	weight	20	filled_weight	0	var	0
+
+requestID	16	totalmean	7	totalvar	9	edgeID	0	provisioned_bw	1
+==================== scenario end ====================
+i	17	totalmean	7	flow	0	topk	1
+edge	9	weight	20	filled_weight	9	var	4
+edge	19	weight	20	filled_weight	9	var	4
+
+==================== scenario end ====================
+i	18	totalmean	6	flow	0	topk	0
+edge	0	weight	35	filled_weight	26	var	17
+
+requestID	18	totalmean	6	totalvar	1	edgeID	0	provisioned_bw	5
+==================== scenario end ====================
+i	19	totalmean	6	flow	0	topk	1
+edge	8	weight	20	filled_weight	0	var	0
+edge	18	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	10	total_prov	34	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	0	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	1
+edge	10	weight	20	filled_weight	0	var	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	1
+edge	4	weight	20	filled_weight	0	var	0
+edge	14	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	1
+edge	7	weight	20	filled_weight	0	var	0
+edge	17	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	1
+edge	9	weight	20	filled_weight	0	var	0
+edge	19	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	1
+edge	3	weight	20	filled_weight	0	var	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	1
+edge	1	weight	20	filled_weight	0	var	0
+edge	11	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	0
+edge	0	weight	20	filled_weight	10	var	4
+
+requestID	7	totalmean	8	totalvar	4	edgeID	0	provisioned_bw	3
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	1
+edge	6	weight	20	filled_weight	0	var	0
+edge	16	weight	20	filled_weight	0	var	0
+
+requestID	8	totalmean	8	totalvar	4	edgeID	0	provisioned_bw	1
+==================== scenario end ====================
+i	9	totalmean	8	flow	0	topk	1
+edge	3	weight	20	filled_weight	9	var	4
+edge	13	weight	20	filled_weight	9	var	4
+
+requestID	9	totalmean	8	totalvar	4	edgeID	3	provisioned_bw	2
+requestID	9	totalmean	8	totalvar	4	edgeID	13	provisioned_bw	2
+==================== scenario end ====================
+i	10	totalmean	8	flow	0	topk	1
+edge	5	weight	20	filled_weight	0	var	0
+edge	15	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	8	flow	0	topk	1
+edge	6	weight	20	filled_weight	8	var	4
+edge	16	weight	20	filled_weight	8	var	4
+
+==================== scenario end ====================
+i	12	totalmean	8	flow	0	topk	0
+edge	0	weight	24	filled_weight	18	var	8
+
+requestID	12	totalmean	8	totalvar	9	edgeID	0	provisioned_bw	9
+==================== scenario end ====================
+i	13	totalmean	8	flow	0	topk	1
+edge	10	weight	20	filled_weight	10	var	1
+edge	20	weight	20	filled_weight	10	var	1
+
+requestID	13	totalmean	8	totalvar	4	edgeID	0	provisioned_bw	1
+requestID	13	totalmean	8	totalvar	4	edgeID	10	provisioned_bw	2
+requestID	13	totalmean	8	totalvar	4	edgeID	20	provisioned_bw	2
+==================== scenario end ====================
+i	14	totalmean	8	flow	0	topk	1
+edge	4	weight	20	filled_weight	10	var	1
+edge	14	weight	20	filled_weight	10	var	1
+
+requestID	14	totalmean	8	totalvar	4	edgeID	4	provisioned_bw	2
+requestID	14	totalmean	8	totalvar	4	edgeID	14	provisioned_bw	2
+==================== scenario end ====================
+i	15	totalmean	7	flow	0	topk	1
+edge	7	weight	20	filled_weight	9	var	4
+edge	17	weight	20	filled_weight	9	var	4
+
+requestID	15	totalmean	7	totalvar	4	edgeID	7	provisioned_bw	1
+requestID	15	totalmean	7	totalvar	4	edgeID	17	provisioned_bw	1
+==================== scenario end ====================
+i	16	totalmean	7	flow	0	topk	1
+edge	2	weight	20	filled_weight	0	var	0
+edge	12	weight	20	filled_weight	0	var	0
+
+requestID	16	totalmean	7	totalvar	9	edgeID	0	provisioned_bw	1
+==================== scenario end ====================
+i	17	totalmean	7	flow	0	topk	1
+edge	9	weight	20	filled_weight	9	var	4
+edge	19	weight	20	filled_weight	9	var	4
+
+==================== scenario end ====================
+i	18	totalmean	6	flow	0	topk	0
+edge	0	weight	35	filled_weight	26	var	17
+
+requestID	18	totalmean	6	totalvar	1	edgeID	0	provisioned_bw	5
+==================== scenario end ====================
+i	19	totalmean	6	flow	0	topk	1
+edge	8	weight	20	filled_weight	0	var	0
+edge	18	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	20	total_prov	34	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	25	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	26	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	9	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	0
+edge	5	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	8	flow	0	topk	0
+edge	62	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	8	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	8	flow	0	topk	0
+edge	58	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	0
+edge	58	weight	20	filled_weight	8	var	9
+
+requestID	7	totalmean	8	totalvar	9	edgeID	58	provisioned_bw	4
+==================== scenario end ====================
+i	8	totalmean	7	flow	0	topk	0
+edge	64	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	7	flow	0	topk	0
+edge	21	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	7	flow	0	topk	0
+edge	34	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	7	flow	0	topk	0
+edge	60	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	7	flow	0	topk	0
+edge	18	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	6	flow	0	topk	0
+edge	49	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	31	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	0
+edge	25	weight	20	filled_weight	10	var	4
+
+requestID	15	totalmean	6	totalvar	9	edgeID	25	provisioned_bw	2
+==================== scenario end ====================
+i	16	totalmean	6	flow	0	topk	0
+edge	63	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	6	flow	0	topk	0
+edge	21	weight	20	filled_weight	7	var	4
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	45	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	2	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	1	total_prov	6	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	48	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	26	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	0
+edge	48	weight	20	filled_weight	10	var	9
+
+requestID	2	totalmean	10	totalvar	9	edgeID	48	provisioned_bw	8
+==================== scenario end ====================
+i	3	totalmean	10	flow	0	topk	0
+edge	1	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	12	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	0
+edge	12	weight	20	filled_weight	9	var	9
+
+requestID	5	totalmean	9	totalvar	4	edgeID	12	provisioned_bw	4
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	0
+edge	1	weight	20	filled_weight	10	var	9
+
+requestID	6	totalmean	9	totalvar	9	edgeID	1	provisioned_bw	7
+==================== scenario end ====================
+i	7	totalmean	9	flow	0	topk	0
+edge	47	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	0
+edge	27	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	7	flow	0	topk	0
+edge	51	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	7	flow	0	topk	0
+edge	53	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	7	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	7	flow	0	topk	0
+edge	17	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	7	flow	0	topk	0
+edge	25	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	17	weight	20	filled_weight	7	var	4
+
+requestID	14	totalmean	6	totalvar	4	edgeID	12	provisioned_bw	1
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	0
+edge	4	weight	20	filled_weight	0	var	0
+
+requestID	15	totalmean	6	totalvar	9	edgeID	48	provisioned_bw	1
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	5	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	45	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	35	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	53	weight	20	filled_weight	7	var	9
+
+==================== scenario end ====================
+scailing_constant	1	total_prov	21	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	28	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	9	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	0
+edge	57	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	51	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	0
+edge	43	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	0
+edge	61	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	9	flow	0	topk	0
+edge	25	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	0
+edge	65	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	8	flow	0	topk	0
+edge	40	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	7	flow	0	topk	0
+edge	22	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	7	flow	0	topk	0
+edge	42	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	7	flow	0	topk	0
+edge	4	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	7	flow	0	topk	0
+edge	44	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	6	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	0
+edge	16	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	6	flow	0	topk	0
+edge	57	weight	20	filled_weight	9	var	9
+
+requestID	16	totalmean	6	totalvar	4	edgeID	57	provisioned_bw	1
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	15	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	59	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	42	weight	20	filled_weight	7	var	9
+
+==================== scenario end ====================
+scailing_constant	1	total_prov	1	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	51	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	43	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	9	flow	0	topk	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	0
+edge	19	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	62	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	8	flow	0	topk	0
+edge	19	weight	20	filled_weight	9	var	4
+
+requestID	5	totalmean	8	totalvar	9	edgeID	19	provisioned_bw	3
+==================== scenario end ====================
+i	6	totalmean	8	flow	0	topk	0
+edge	6	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	0
+edge	64	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	8	flow	0	topk	0
+edge	16	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	7	flow	0	topk	0
+edge	55	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	7	flow	0	topk	0
+edge	47	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	6	flow	0	topk	0
+edge	41	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	6	flow	0	topk	0
+edge	61	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	33	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	5	flow	0	topk	0
+edge	47	weight	20	filled_weight	7	var	4
+
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	63	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	3	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	20	weight	20	filled_weight	9	var	4
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	54	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	1	total_prov	3	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	48	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	0
+edge	9	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	0
+edge	39	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	5	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	0
+edge	11	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	0
+edge	20	weight	20	filled_weight	10	var	9
+
+requestID	6	totalmean	9	totalvar	9	edgeID	20	provisioned_bw	7
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	0
+edge	11	weight	20	filled_weight	9	var	4
+
+requestID	7	totalmean	8	totalvar	9	edgeID	11	provisioned_bw	3
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	0
+edge	42	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	8	flow	0	topk	0
+edge	36	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	7	flow	0	topk	0
+edge	41	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	6	flow	0	topk	0
+edge	57	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	6	flow	0	topk	0
+edge	8	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	6	flow	0	topk	0
+edge	30	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	30	weight	20	filled_weight	6	var	4
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	0
+edge	34	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	35	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	18	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	56	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	1	total_prov	10	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	51	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	0	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	0
+edge	1	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	10	flow	0	topk	0
+edge	2	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	18	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	0
+edge	23	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	0
+edge	34	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	9	flow	0	topk	0
+edge	10	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	9	flow	0	topk	0
+edge	2	weight	20	filled_weight	10	var	4
+
+requestID	8	totalmean	9	totalvar	9	edgeID	2	provisioned_bw	5
+==================== scenario end ====================
+i	9	totalmean	9	flow	0	topk	0
+edge	47	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	8	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	7	flow	0	topk	0
+edge	49	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	7	flow	0	topk	0
+edge	49	weight	20	filled_weight	7	var	4
+
+==================== scenario end ====================
+i	13	totalmean	6	flow	0	topk	0
+edge	65	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	31	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	5	flow	0	topk	0
+edge	33	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	22	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	9	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	39	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	32	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	1	total_prov	5	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	35	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	64	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	10	flow	0	topk	0
+edge	0	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	8	flow	0	topk	0
+edge	28	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	8	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	8	flow	0	topk	0
+edge	11	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	0
+edge	60	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	7	flow	0	topk	0
+edge	28	weight	20	filled_weight	8	var	4
+
+==================== scenario end ====================
+i	9	totalmean	7	flow	0	topk	0
+edge	31	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	6	flow	0	topk	0
+edge	51	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	6	flow	0	topk	0
+edge	15	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	6	flow	0	topk	0
+edge	45	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	6	flow	0	topk	0
+edge	2	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	13	weight	20	filled_weight	10	var	4
+
+requestID	14	totalmean	6	totalvar	4	edgeID	13	provisioned_bw	1
+==================== scenario end ====================
+i	15	totalmean	5	flow	0	topk	0
+edge	29	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	27	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	58	weight	20	filled_weight	0	var	0
+
+requestID	17	totalmean	5	totalvar	9	edgeID	28	provisioned_bw	2
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	52	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	62	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	1	total_prov	3	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	63	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	21	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	0
+edge	61	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	10	flow	0	topk	0
+edge	19	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	12	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	0
+edge	63	weight	20	filled_weight	10	var	9
+
+requestID	5	totalmean	9	totalvar	4	edgeID	63	provisioned_bw	5
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	0
+edge	36	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	9	flow	0	topk	0
+edge	16	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	9	flow	0	topk	0
+edge	51	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	9	flow	0	topk	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	8	flow	0	topk	0
+edge	57	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	8	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	8	flow	0	topk	0
+edge	11	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	7	flow	0	topk	0
+edge	37	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	10	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	1
+edge	9	weight	20	filled_weight	0	var	0
+edge	8	weight	20	filled_weight	0	var	0
+
+requestID	15	totalmean	6	totalvar	9	edgeID	63	provisioned_bw	2
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	3	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	7	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	35	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	1	total_prov	7	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	9	flow	0	topk	0
+edge	26	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	9	flow	0	topk	0
+edge	4	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	9	flow	0	topk	0
+edge	57	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	8	flow	0	topk	0
+edge	0	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	8	flow	0	topk	0
+edge	36	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	7	flow	0	topk	0
+edge	23	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	7	flow	0	topk	0
+edge	58	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	7	flow	0	topk	0
+edge	31	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	7	flow	0	topk	0
+edge	63	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	7	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	7	flow	0	topk	0
+edge	6	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	6	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	6	flow	0	topk	0
+edge	53	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	6	flow	0	topk	0
+edge	58	weight	20	filled_weight	7	var	9
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	25	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	0
+edge	60	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	6	flow	0	topk	0
+edge	19	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	52	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	21	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	52	weight	20	filled_weight	5	var	9
+
+==================== scenario end ====================
+scailing_constant	1	total_prov	0	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	45	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	10	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	0
+edge	1	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	0
+edge	26	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	16	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	0
+edge	40	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	8	flow	0	topk	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	0
+edge	45	weight	20	filled_weight	10	var	9
+
+requestID	7	totalmean	8	totalvar	9	edgeID	45	provisioned_bw	6
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	0
+edge	14	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	8	flow	0	topk	0
+edge	60	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	8	flow	0	topk	0
+edge	64	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	7	flow	0	topk	0
+edge	40	weight	20	filled_weight	9	var	4
+
+requestID	11	totalmean	7	totalvar	9	edgeID	40	provisioned_bw	2
+==================== scenario end ====================
+i	12	totalmean	7	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+requestID	12	totalmean	7	totalvar	4	edgeID	40	provisioned_bw	1
+==================== scenario end ====================
+i	13	totalmean	7	flow	0	topk	0
+edge	33	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	60	weight	20	filled_weight	8	var	9
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	0
+edge	62	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	43	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	10	weight	20	filled_weight	10	var	4
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	17	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	50	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	1	total_prov	9	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	25	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	26	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	9	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	0
+edge	5	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	8	flow	0	topk	0
+edge	62	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	8	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	8	flow	0	topk	0
+edge	58	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	1
+edge	56	weight	20	filled_weight	0	var	0
+edge	61	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	7	flow	0	topk	0
+edge	64	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	7	flow	0	topk	0
+edge	21	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	7	flow	0	topk	0
+edge	34	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	7	flow	0	topk	0
+edge	60	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	7	flow	0	topk	0
+edge	18	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	6	flow	0	topk	0
+edge	49	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	31	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	0
+edge	25	weight	20	filled_weight	10	var	4
+
+requestID	15	totalmean	6	totalvar	9	edgeID	25	provisioned_bw	2
+==================== scenario end ====================
+i	16	totalmean	6	flow	0	topk	0
+edge	63	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	6	flow	0	topk	0
+edge	21	weight	20	filled_weight	7	var	4
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	45	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	2	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	2	total_prov	2	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	48	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	26	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	1
+edge	42	weight	20	filled_weight	0	var	0
+edge	38	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	10	flow	0	topk	0
+edge	1	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	12	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	0
+edge	12	weight	20	filled_weight	9	var	9
+
+requestID	5	totalmean	9	totalvar	4	edgeID	12	provisioned_bw	4
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	0
+edge	1	weight	20	filled_weight	10	var	9
+
+requestID	6	totalmean	9	totalvar	9	edgeID	1	provisioned_bw	7
+==================== scenario end ====================
+i	7	totalmean	9	flow	0	topk	0
+edge	47	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	0
+edge	27	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	7	flow	0	topk	0
+edge	51	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	7	flow	0	topk	0
+edge	53	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	7	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	7	flow	0	topk	0
+edge	17	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	7	flow	0	topk	0
+edge	25	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	17	weight	20	filled_weight	7	var	4
+
+requestID	14	totalmean	6	totalvar	4	edgeID	12	provisioned_bw	1
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	0
+edge	4	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	5	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	45	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	35	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	53	weight	20	filled_weight	7	var	9
+
+==================== scenario end ====================
+scailing_constant	2	total_prov	12	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	28	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	9	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	0
+edge	57	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	51	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	0
+edge	43	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	0
+edge	61	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	9	flow	0	topk	0
+edge	25	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	0
+edge	65	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	8	flow	0	topk	0
+edge	40	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	7	flow	0	topk	0
+edge	22	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	7	flow	0	topk	0
+edge	42	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	7	flow	0	topk	0
+edge	4	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	7	flow	0	topk	0
+edge	44	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	6	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	0
+edge	16	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	6	flow	0	topk	0
+edge	57	weight	20	filled_weight	9	var	9
+
+requestID	16	totalmean	6	totalvar	4	edgeID	57	provisioned_bw	1
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	15	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	59	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	42	weight	20	filled_weight	7	var	9
+
+==================== scenario end ====================
+scailing_constant	2	total_prov	1	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	51	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	43	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	9	flow	0	topk	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	0
+edge	19	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	62	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	8	flow	0	topk	0
+edge	19	weight	20	filled_weight	9	var	4
+
+requestID	5	totalmean	8	totalvar	9	edgeID	19	provisioned_bw	3
+==================== scenario end ====================
+i	6	totalmean	8	flow	0	topk	0
+edge	6	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	0
+edge	64	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	8	flow	0	topk	0
+edge	16	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	7	flow	0	topk	0
+edge	55	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	7	flow	0	topk	0
+edge	47	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	6	flow	0	topk	0
+edge	41	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	6	flow	0	topk	0
+edge	61	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	33	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	5	flow	0	topk	0
+edge	47	weight	20	filled_weight	7	var	4
+
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	63	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	3	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	20	weight	20	filled_weight	9	var	4
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	54	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	2	total_prov	3	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	48	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	0
+edge	9	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	0
+edge	39	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	5	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	0
+edge	11	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	1
+edge	62	weight	20	filled_weight	0	var	0
+edge	17	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	0
+edge	11	weight	20	filled_weight	9	var	4
+
+requestID	7	totalmean	8	totalvar	9	edgeID	11	provisioned_bw	3
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	0
+edge	42	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	8	flow	0	topk	0
+edge	36	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	7	flow	0	topk	0
+edge	41	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	6	flow	0	topk	0
+edge	57	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	6	flow	0	topk	0
+edge	8	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	6	flow	0	topk	0
+edge	30	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	30	weight	20	filled_weight	6	var	4
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	0
+edge	34	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	35	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	18	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	56	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	2	total_prov	3	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	51	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	0	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	0
+edge	1	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	10	flow	0	topk	0
+edge	2	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	18	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	0
+edge	23	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	0
+edge	34	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	9	flow	0	topk	0
+edge	10	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	9	flow	0	topk	0
+edge	2	weight	20	filled_weight	10	var	4
+
+requestID	8	totalmean	9	totalvar	9	edgeID	2	provisioned_bw	5
+==================== scenario end ====================
+i	9	totalmean	9	flow	0	topk	0
+edge	47	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	8	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	7	flow	0	topk	0
+edge	49	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	7	flow	0	topk	0
+edge	49	weight	20	filled_weight	7	var	4
+
+==================== scenario end ====================
+i	13	totalmean	6	flow	0	topk	0
+edge	65	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	31	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	5	flow	0	topk	0
+edge	33	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	22	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	9	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	39	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	32	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	2	total_prov	5	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	35	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	64	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	10	flow	0	topk	0
+edge	0	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	8	flow	0	topk	0
+edge	28	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	8	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	8	flow	0	topk	0
+edge	11	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	0
+edge	60	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	7	flow	0	topk	0
+edge	28	weight	20	filled_weight	8	var	4
+
+==================== scenario end ====================
+i	9	totalmean	7	flow	0	topk	0
+edge	31	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	6	flow	0	topk	0
+edge	51	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	6	flow	0	topk	0
+edge	15	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	6	flow	0	topk	0
+edge	45	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	6	flow	0	topk	0
+edge	2	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	13	weight	20	filled_weight	10	var	4
+
+requestID	14	totalmean	6	totalvar	4	edgeID	13	provisioned_bw	1
+==================== scenario end ====================
+i	15	totalmean	5	flow	0	topk	0
+edge	29	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	27	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	58	weight	20	filled_weight	0	var	0
+
+requestID	17	totalmean	5	totalvar	9	edgeID	28	provisioned_bw	2
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	52	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	62	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	2	total_prov	3	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	63	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	21	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	0
+edge	61	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	10	flow	0	topk	0
+edge	19	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	12	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	1
+edge	36	weight	20	filled_weight	0	var	0
+edge	35	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	0
+edge	36	weight	20	filled_weight	9	var	4
+
+requestID	6	totalmean	9	totalvar	9	edgeID	36	provisioned_bw	4
+==================== scenario end ====================
+i	7	totalmean	9	flow	0	topk	0
+edge	16	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	9	flow	0	topk	0
+edge	51	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	9	flow	0	topk	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	8	flow	0	topk	0
+edge	57	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	8	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	8	flow	0	topk	0
+edge	11	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	7	flow	0	topk	0
+edge	37	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	10	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	1
+edge	9	weight	20	filled_weight	0	var	0
+edge	8	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	3	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	7	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	35	weight	20	filled_weight	9	var	4
+
+==================== scenario end ====================
+scailing_constant	2	total_prov	4	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	9	flow	0	topk	0
+edge	26	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	9	flow	0	topk	0
+edge	4	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	9	flow	0	topk	0
+edge	57	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	8	flow	0	topk	0
+edge	0	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	8	flow	0	topk	0
+edge	36	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	7	flow	0	topk	0
+edge	23	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	7	flow	0	topk	0
+edge	58	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	7	flow	0	topk	0
+edge	31	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	7	flow	0	topk	0
+edge	63	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	7	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	7	flow	0	topk	0
+edge	6	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	6	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	6	flow	0	topk	0
+edge	53	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	6	flow	0	topk	0
+edge	58	weight	20	filled_weight	7	var	9
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	25	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	0
+edge	60	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	6	flow	0	topk	0
+edge	19	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	52	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	21	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	52	weight	20	filled_weight	5	var	9
+
+==================== scenario end ====================
+scailing_constant	2	total_prov	0	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	45	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	10	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	0
+edge	1	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	0
+edge	26	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	16	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	0
+edge	40	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	8	flow	0	topk	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	1
+edge	49	weight	20	filled_weight	0	var	0
+edge	54	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	0
+edge	14	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	8	flow	0	topk	0
+edge	60	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	8	flow	0	topk	0
+edge	64	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	7	flow	0	topk	0
+edge	40	weight	20	filled_weight	9	var	4
+
+requestID	11	totalmean	7	totalvar	9	edgeID	40	provisioned_bw	2
+==================== scenario end ====================
+i	12	totalmean	7	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+requestID	12	totalmean	7	totalvar	4	edgeID	40	provisioned_bw	1
+==================== scenario end ====================
+i	13	totalmean	7	flow	0	topk	0
+edge	33	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	60	weight	20	filled_weight	8	var	9
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	0
+edge	62	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	43	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	10	weight	20	filled_weight	10	var	4
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	17	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	50	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	2	total_prov	3	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	25	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	26	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	9	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	0
+edge	5	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	8	flow	0	topk	0
+edge	62	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	8	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	8	flow	0	topk	0
+edge	58	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	1
+edge	56	weight	20	filled_weight	0	var	0
+edge	61	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	7	flow	0	topk	0
+edge	64	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	7	flow	0	topk	0
+edge	21	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	7	flow	0	topk	0
+edge	34	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	7	flow	0	topk	0
+edge	60	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	7	flow	0	topk	0
+edge	18	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	6	flow	0	topk	0
+edge	49	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	31	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	1
+edge	21	weight	20	filled_weight	7	var	4
+edge	33	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	6	flow	0	topk	0
+edge	63	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	6	flow	0	topk	1
+edge	30	weight	20	filled_weight	0	var	0
+edge	22	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	45	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	2	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	5	total_prov	0	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	48	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	26	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	1
+edge	42	weight	20	filled_weight	0	var	0
+edge	38	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	10	flow	0	topk	0
+edge	1	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	12	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	1
+edge	35	weight	20	filled_weight	0	var	0
+edge	18	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	0
+edge	1	weight	20	filled_weight	10	var	9
+
+requestID	6	totalmean	9	totalvar	9	edgeID	1	provisioned_bw	7
+==================== scenario end ====================
+i	7	totalmean	9	flow	0	topk	0
+edge	47	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	0
+edge	27	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	7	flow	0	topk	0
+edge	51	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	7	flow	0	topk	0
+edge	53	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	7	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	7	flow	0	topk	0
+edge	17	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	7	flow	0	topk	0
+edge	25	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	17	weight	20	filled_weight	7	var	4
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	0
+edge	4	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	5	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	45	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	35	weight	20	filled_weight	9	var	4
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	53	weight	20	filled_weight	7	var	9
+
+==================== scenario end ====================
+scailing_constant	5	total_prov	7	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	28	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	9	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	0
+edge	57	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	51	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	0
+edge	43	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	0
+edge	61	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	9	flow	0	topk	0
+edge	25	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	0
+edge	65	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	8	flow	0	topk	0
+edge	40	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	7	flow	0	topk	0
+edge	22	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	7	flow	0	topk	0
+edge	42	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	7	flow	0	topk	0
+edge	4	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	7	flow	0	topk	0
+edge	44	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	6	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	0
+edge	16	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	6	flow	0	topk	0
+edge	57	weight	20	filled_weight	9	var	9
+
+requestID	16	totalmean	6	totalvar	4	edgeID	57	provisioned_bw	1
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	15	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	59	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	42	weight	20	filled_weight	7	var	9
+
+==================== scenario end ====================
+scailing_constant	5	total_prov	1	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	51	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	43	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	9	flow	0	topk	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	0
+edge	19	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	62	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	8	flow	0	topk	0
+edge	19	weight	20	filled_weight	9	var	4
+
+requestID	5	totalmean	8	totalvar	9	edgeID	19	provisioned_bw	3
+==================== scenario end ====================
+i	6	totalmean	8	flow	0	topk	0
+edge	6	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	0
+edge	64	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	8	flow	0	topk	0
+edge	16	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	7	flow	0	topk	0
+edge	55	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	7	flow	0	topk	0
+edge	47	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	6	flow	0	topk	0
+edge	41	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	6	flow	0	topk	0
+edge	61	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	33	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	5	flow	0	topk	0
+edge	47	weight	20	filled_weight	7	var	4
+
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	63	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	3	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	20	weight	20	filled_weight	9	var	4
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	54	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	5	total_prov	3	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	48	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	0
+edge	9	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	0
+edge	39	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	5	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	0
+edge	11	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	1
+edge	62	weight	20	filled_weight	0	var	0
+edge	17	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	1
+edge	28	weight	20	filled_weight	0	var	0
+edge	19	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	0
+edge	42	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	8	flow	0	topk	0
+edge	36	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	7	flow	0	topk	0
+edge	41	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	6	flow	0	topk	0
+edge	57	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	6	flow	0	topk	0
+edge	8	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	6	flow	0	topk	0
+edge	30	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	30	weight	20	filled_weight	6	var	4
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	0
+edge	34	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	35	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	18	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	56	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	5	total_prov	0	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	51	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	0	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	0
+edge	1	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	10	flow	0	topk	0
+edge	2	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	18	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	0
+edge	23	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	0
+edge	34	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	9	flow	0	topk	0
+edge	10	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	9	flow	0	topk	0
+edge	2	weight	20	filled_weight	10	var	4
+
+requestID	8	totalmean	9	totalvar	9	edgeID	2	provisioned_bw	5
+==================== scenario end ====================
+i	9	totalmean	9	flow	0	topk	0
+edge	47	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	8	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	7	flow	0	topk	0
+edge	49	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	7	flow	0	topk	0
+edge	49	weight	20	filled_weight	7	var	4
+
+==================== scenario end ====================
+i	13	totalmean	6	flow	0	topk	0
+edge	65	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	31	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	5	flow	0	topk	0
+edge	33	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	22	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	9	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	39	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	32	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	5	total_prov	5	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	35	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	64	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	10	flow	0	topk	0
+edge	0	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	8	flow	0	topk	0
+edge	28	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	8	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	8	flow	0	topk	0
+edge	11	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	0
+edge	60	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	7	flow	0	topk	0
+edge	28	weight	20	filled_weight	8	var	4
+
+==================== scenario end ====================
+i	9	totalmean	7	flow	0	topk	0
+edge	31	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	6	flow	0	topk	0
+edge	51	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	6	flow	0	topk	0
+edge	15	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	6	flow	0	topk	0
+edge	45	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	6	flow	0	topk	0
+edge	2	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	13	weight	20	filled_weight	10	var	4
+
+requestID	14	totalmean	6	totalvar	4	edgeID	13	provisioned_bw	1
+==================== scenario end ====================
+i	15	totalmean	5	flow	0	topk	0
+edge	29	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	27	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	58	weight	20	filled_weight	0	var	0
+
+requestID	17	totalmean	5	totalvar	9	edgeID	28	provisioned_bw	2
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	52	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	62	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	5	total_prov	3	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	63	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	21	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	0
+edge	61	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	10	flow	0	topk	0
+edge	19	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	12	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	1
+edge	36	weight	20	filled_weight	0	var	0
+edge	35	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	1
+edge	2	weight	20	filled_weight	0	var	0
+edge	9	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	9	flow	0	topk	0
+edge	16	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	9	flow	0	topk	0
+edge	51	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	9	flow	0	topk	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	8	flow	0	topk	0
+edge	57	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	8	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	8	flow	0	topk	0
+edge	11	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	7	flow	0	topk	0
+edge	37	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	10	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	0
+edge	63	weight	20	filled_weight	10	var	9
+
+requestID	15	totalmean	6	totalvar	9	edgeID	63	provisioned_bw	4
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	3	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	7	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	35	weight	20	filled_weight	9	var	4
+
+==================== scenario end ====================
+scailing_constant	5	total_prov	4	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	9	flow	0	topk	0
+edge	26	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	9	flow	0	topk	0
+edge	4	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	9	flow	0	topk	0
+edge	57	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	8	flow	0	topk	0
+edge	0	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	8	flow	0	topk	0
+edge	36	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	7	flow	0	topk	0
+edge	23	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	7	flow	0	topk	0
+edge	58	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	7	flow	0	topk	0
+edge	31	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	7	flow	0	topk	0
+edge	63	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	7	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	7	flow	0	topk	0
+edge	6	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	6	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	6	flow	0	topk	0
+edge	53	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	6	flow	0	topk	0
+edge	58	weight	20	filled_weight	7	var	9
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	25	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	0
+edge	60	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	6	flow	0	topk	0
+edge	19	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	52	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	21	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	52	weight	20	filled_weight	5	var	9
+
+==================== scenario end ====================
+scailing_constant	5	total_prov	0	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	45	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	10	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	0
+edge	1	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	0
+edge	26	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	16	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	0
+edge	40	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	8	flow	0	topk	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	1
+edge	49	weight	20	filled_weight	0	var	0
+edge	54	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	0
+edge	14	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	8	flow	0	topk	0
+edge	60	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	8	flow	0	topk	0
+edge	64	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	7	flow	0	topk	1
+edge	56	weight	20	filled_weight	0	var	0
+edge	41	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	7	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	7	flow	0	topk	0
+edge	33	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	60	weight	20	filled_weight	8	var	9
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	0
+edge	62	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	43	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	10	weight	20	filled_weight	10	var	4
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	17	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	50	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	5	total_prov	0	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	25	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	26	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	9	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	0
+edge	5	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	8	flow	0	topk	0
+edge	62	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	8	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	8	flow	0	topk	0
+edge	58	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	1
+edge	56	weight	20	filled_weight	0	var	0
+edge	61	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	7	flow	0	topk	0
+edge	64	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	7	flow	0	topk	0
+edge	21	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	7	flow	0	topk	0
+edge	34	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	7	flow	0	topk	0
+edge	60	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	7	flow	0	topk	0
+edge	18	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	6	flow	0	topk	0
+edge	49	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	31	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	1
+edge	21	weight	20	filled_weight	7	var	4
+edge	33	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	6	flow	0	topk	0
+edge	63	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	6	flow	0	topk	1
+edge	30	weight	20	filled_weight	0	var	0
+edge	22	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	45	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	2	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	10	total_prov	0	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	48	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	26	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	1
+edge	42	weight	20	filled_weight	0	var	0
+edge	38	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	10	flow	0	topk	0
+edge	1	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	12	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	1
+edge	35	weight	20	filled_weight	0	var	0
+edge	18	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	0
+edge	1	weight	20	filled_weight	10	var	9
+
+requestID	6	totalmean	9	totalvar	9	edgeID	1	provisioned_bw	7
+==================== scenario end ====================
+i	7	totalmean	9	flow	0	topk	0
+edge	47	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	0
+edge	27	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	7	flow	0	topk	0
+edge	51	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	7	flow	0	topk	0
+edge	53	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	7	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	7	flow	0	topk	0
+edge	17	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	7	flow	0	topk	0
+edge	25	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	17	weight	20	filled_weight	7	var	4
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	0
+edge	4	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	5	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	45	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	35	weight	20	filled_weight	9	var	4
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	53	weight	20	filled_weight	7	var	9
+
+==================== scenario end ====================
+scailing_constant	10	total_prov	7	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	28	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	9	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	0
+edge	57	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	51	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	0
+edge	43	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	0
+edge	61	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	9	flow	0	topk	0
+edge	25	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	0
+edge	65	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	8	flow	0	topk	0
+edge	40	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	7	flow	0	topk	0
+edge	22	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	7	flow	0	topk	0
+edge	42	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	7	flow	0	topk	0
+edge	4	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	7	flow	0	topk	0
+edge	44	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	6	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	0
+edge	16	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	6	flow	0	topk	1
+edge	16	weight	20	filled_weight	6	var	9
+edge	18	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	15	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	59	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	42	weight	20	filled_weight	7	var	9
+
+==================== scenario end ====================
+scailing_constant	10	total_prov	0	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	51	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	43	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	9	flow	0	topk	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	0
+edge	19	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	62	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	8	flow	0	topk	0
+edge	19	weight	20	filled_weight	9	var	4
+
+requestID	5	totalmean	8	totalvar	9	edgeID	19	provisioned_bw	3
+==================== scenario end ====================
+i	6	totalmean	8	flow	0	topk	0
+edge	6	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	0
+edge	64	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	8	flow	0	topk	0
+edge	16	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	7	flow	0	topk	0
+edge	55	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	7	flow	0	topk	0
+edge	47	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	6	flow	0	topk	0
+edge	41	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	6	flow	0	topk	0
+edge	61	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	33	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	5	flow	0	topk	0
+edge	47	weight	20	filled_weight	7	var	4
+
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	63	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	3	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	20	weight	20	filled_weight	9	var	4
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	54	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	10	total_prov	3	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	48	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	0
+edge	9	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	0
+edge	39	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	5	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	0
+edge	11	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	1
+edge	62	weight	20	filled_weight	0	var	0
+edge	17	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	1
+edge	28	weight	20	filled_weight	0	var	0
+edge	19	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	0
+edge	42	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	8	flow	0	topk	0
+edge	36	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	7	flow	0	topk	0
+edge	41	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	6	flow	0	topk	0
+edge	57	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	6	flow	0	topk	0
+edge	8	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	6	flow	0	topk	0
+edge	30	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	30	weight	20	filled_weight	6	var	4
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	0
+edge	34	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	35	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	18	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	56	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	10	total_prov	0	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	51	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	0	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	0
+edge	1	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	10	flow	0	topk	0
+edge	2	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	18	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	0
+edge	23	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	0
+edge	34	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	9	flow	0	topk	0
+edge	10	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	9	flow	0	topk	0
+edge	2	weight	20	filled_weight	10	var	4
+
+requestID	8	totalmean	9	totalvar	9	edgeID	2	provisioned_bw	5
+==================== scenario end ====================
+i	9	totalmean	9	flow	0	topk	0
+edge	47	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	8	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	7	flow	0	topk	0
+edge	49	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	7	flow	0	topk	0
+edge	49	weight	20	filled_weight	7	var	4
+
+==================== scenario end ====================
+i	13	totalmean	6	flow	0	topk	0
+edge	65	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	31	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	5	flow	0	topk	0
+edge	33	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	22	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	9	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	39	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	32	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	10	total_prov	5	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	35	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	64	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	10	flow	0	topk	0
+edge	0	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	8	flow	0	topk	0
+edge	28	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	8	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	8	flow	0	topk	0
+edge	11	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	0
+edge	60	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	7	flow	0	topk	0
+edge	28	weight	20	filled_weight	8	var	4
+
+==================== scenario end ====================
+i	9	totalmean	7	flow	0	topk	0
+edge	31	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	6	flow	0	topk	0
+edge	51	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	6	flow	0	topk	0
+edge	15	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	6	flow	0	topk	0
+edge	45	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	6	flow	0	topk	0
+edge	2	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	1
+edge	17	weight	20	filled_weight	0	var	0
+edge	41	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	5	flow	0	topk	0
+edge	29	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	27	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	58	weight	20	filled_weight	0	var	0
+
+requestID	17	totalmean	5	totalvar	9	edgeID	28	provisioned_bw	2
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	52	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	62	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	10	total_prov	2	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	63	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	21	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	0
+edge	61	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	10	flow	0	topk	0
+edge	19	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	12	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	1
+edge	36	weight	20	filled_weight	0	var	0
+edge	35	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	1
+edge	2	weight	20	filled_weight	0	var	0
+edge	9	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	9	flow	0	topk	0
+edge	16	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	9	flow	0	topk	0
+edge	51	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	9	flow	0	topk	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	8	flow	0	topk	0
+edge	57	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	8	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	8	flow	0	topk	0
+edge	11	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	7	flow	0	topk	0
+edge	37	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	10	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	1
+edge	9	weight	20	filled_weight	9	var	9
+edge	8	weight	20	filled_weight	0	var	0
+
+requestID	15	totalmean	6	totalvar	9	edgeID	9	provisioned_bw	3
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	3	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	7	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	35	weight	20	filled_weight	9	var	4
+
+==================== scenario end ====================
+scailing_constant	10	total_prov	3	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	9	flow	0	topk	0
+edge	26	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	9	flow	0	topk	0
+edge	4	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	9	flow	0	topk	0
+edge	57	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	8	flow	0	topk	0
+edge	0	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	8	flow	0	topk	0
+edge	36	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	7	flow	0	topk	0
+edge	23	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	7	flow	0	topk	0
+edge	58	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	7	flow	0	topk	0
+edge	31	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	7	flow	0	topk	0
+edge	63	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	7	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	7	flow	0	topk	0
+edge	6	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	6	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	6	flow	0	topk	0
+edge	53	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	6	flow	0	topk	0
+edge	58	weight	20	filled_weight	7	var	9
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	25	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	0
+edge	60	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	6	flow	0	topk	0
+edge	19	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	52	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	21	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	52	weight	20	filled_weight	5	var	9
+
+==================== scenario end ====================
+scailing_constant	10	total_prov	0	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	45	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	10	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	0
+edge	1	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	0
+edge	26	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	16	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	0
+edge	40	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	8	flow	0	topk	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	1
+edge	49	weight	20	filled_weight	0	var	0
+edge	54	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	0
+edge	14	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	8	flow	0	topk	0
+edge	60	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	8	flow	0	topk	0
+edge	64	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	7	flow	0	topk	1
+edge	56	weight	20	filled_weight	0	var	0
+edge	41	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	7	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	7	flow	0	topk	0
+edge	33	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	60	weight	20	filled_weight	8	var	9
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	0
+edge	62	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	43	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	10	weight	20	filled_weight	10	var	4
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	17	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	50	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	10	total_prov	0	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	25	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	26	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	9	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	0
+edge	5	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	8	flow	0	topk	0
+edge	62	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	8	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	8	flow	0	topk	0
+edge	58	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	1
+edge	56	weight	20	filled_weight	0	var	0
+edge	61	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	7	flow	0	topk	0
+edge	64	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	7	flow	0	topk	0
+edge	21	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	7	flow	0	topk	0
+edge	34	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	7	flow	0	topk	0
+edge	60	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	7	flow	0	topk	0
+edge	18	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	6	flow	0	topk	0
+edge	49	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	31	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	1
+edge	21	weight	20	filled_weight	7	var	4
+edge	33	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	6	flow	0	topk	0
+edge	63	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	6	flow	0	topk	1
+edge	30	weight	20	filled_weight	0	var	0
+edge	22	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	45	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	2	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	20	total_prov	0	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	48	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	26	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	1
+edge	42	weight	20	filled_weight	0	var	0
+edge	38	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	10	flow	0	topk	0
+edge	1	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	12	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	1
+edge	35	weight	20	filled_weight	0	var	0
+edge	18	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	0
+edge	1	weight	20	filled_weight	10	var	9
+
+requestID	6	totalmean	9	totalvar	9	edgeID	1	provisioned_bw	7
+==================== scenario end ====================
+i	7	totalmean	9	flow	0	topk	0
+edge	47	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	0
+edge	27	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	7	flow	0	topk	0
+edge	51	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	7	flow	0	topk	0
+edge	53	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	7	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	7	flow	0	topk	0
+edge	17	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	7	flow	0	topk	0
+edge	25	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	17	weight	20	filled_weight	7	var	4
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	0
+edge	4	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	5	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	45	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	35	weight	20	filled_weight	9	var	4
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	53	weight	20	filled_weight	7	var	9
+
+==================== scenario end ====================
+scailing_constant	20	total_prov	7	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	28	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	9	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	0
+edge	57	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	51	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	0
+edge	43	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	0
+edge	61	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	9	flow	0	topk	0
+edge	25	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	0
+edge	65	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	8	flow	0	topk	0
+edge	40	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	7	flow	0	topk	0
+edge	22	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	7	flow	0	topk	0
+edge	42	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	7	flow	0	topk	0
+edge	4	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	7	flow	0	topk	0
+edge	44	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	6	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	0
+edge	16	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	6	flow	0	topk	1
+edge	16	weight	20	filled_weight	6	var	9
+edge	18	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	15	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	59	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	42	weight	20	filled_weight	7	var	9
+
+==================== scenario end ====================
+scailing_constant	20	total_prov	0	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	51	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	43	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	9	flow	0	topk	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	0
+edge	19	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	62	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	8	flow	0	topk	0
+edge	19	weight	20	filled_weight	9	var	4
+
+requestID	5	totalmean	8	totalvar	9	edgeID	19	provisioned_bw	3
+==================== scenario end ====================
+i	6	totalmean	8	flow	0	topk	0
+edge	6	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	0
+edge	64	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	8	flow	0	topk	0
+edge	16	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	7	flow	0	topk	0
+edge	55	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	7	flow	0	topk	0
+edge	47	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	6	flow	0	topk	0
+edge	41	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	6	flow	0	topk	0
+edge	61	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	33	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	5	flow	0	topk	0
+edge	47	weight	20	filled_weight	7	var	4
+
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	63	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	3	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	20	weight	20	filled_weight	9	var	4
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	54	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	20	total_prov	3	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	48	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	0
+edge	9	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	0
+edge	39	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	5	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	0
+edge	11	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	1
+edge	62	weight	20	filled_weight	0	var	0
+edge	17	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	1
+edge	28	weight	20	filled_weight	0	var	0
+edge	19	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	0
+edge	42	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	8	flow	0	topk	0
+edge	36	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	7	flow	0	topk	0
+edge	41	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	6	flow	0	topk	0
+edge	57	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	6	flow	0	topk	0
+edge	8	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	6	flow	0	topk	0
+edge	30	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	30	weight	20	filled_weight	6	var	4
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	0
+edge	34	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	35	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	18	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	56	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	20	total_prov	0	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	51	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	0	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	0
+edge	1	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	10	flow	0	topk	0
+edge	2	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	18	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	0
+edge	23	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	0
+edge	34	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	9	flow	0	topk	0
+edge	10	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	9	flow	0	topk	0
+edge	2	weight	20	filled_weight	10	var	4
+
+requestID	8	totalmean	9	totalvar	9	edgeID	2	provisioned_bw	5
+==================== scenario end ====================
+i	9	totalmean	9	flow	0	topk	0
+edge	47	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	8	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	7	flow	0	topk	0
+edge	49	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	7	flow	0	topk	0
+edge	49	weight	20	filled_weight	7	var	4
+
+==================== scenario end ====================
+i	13	totalmean	6	flow	0	topk	0
+edge	65	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	31	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	5	flow	0	topk	0
+edge	33	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	22	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	9	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	39	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	32	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	20	total_prov	5	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	35	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	64	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	10	flow	0	topk	0
+edge	0	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	8	flow	0	topk	0
+edge	28	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	8	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	8	flow	0	topk	0
+edge	11	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	0
+edge	60	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	7	flow	0	topk	0
+edge	28	weight	20	filled_weight	8	var	4
+
+==================== scenario end ====================
+i	9	totalmean	7	flow	0	topk	0
+edge	31	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	6	flow	0	topk	0
+edge	51	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	6	flow	0	topk	0
+edge	15	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	6	flow	0	topk	0
+edge	45	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	6	flow	0	topk	0
+edge	2	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	1
+edge	17	weight	20	filled_weight	0	var	0
+edge	41	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	5	flow	0	topk	0
+edge	29	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	27	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	58	weight	20	filled_weight	0	var	0
+
+requestID	17	totalmean	5	totalvar	9	edgeID	28	provisioned_bw	2
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	52	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	62	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	20	total_prov	2	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	63	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	21	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	0
+edge	61	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	10	flow	0	topk	0
+edge	19	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	12	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	1
+edge	36	weight	20	filled_weight	0	var	0
+edge	35	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	9	flow	0	topk	1
+edge	2	weight	20	filled_weight	0	var	0
+edge	9	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	9	flow	0	topk	0
+edge	16	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	9	flow	0	topk	0
+edge	51	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	9	flow	0	topk	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	8	flow	0	topk	0
+edge	57	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	8	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	8	flow	0	topk	0
+edge	11	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	7	flow	0	topk	0
+edge	37	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	10	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	1
+edge	9	weight	20	filled_weight	9	var	9
+edge	8	weight	20	filled_weight	0	var	0
+
+requestID	15	totalmean	6	totalvar	9	edgeID	9	provisioned_bw	3
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	3	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	7	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	35	weight	20	filled_weight	9	var	4
+
+==================== scenario end ====================
+scailing_constant	20	total_prov	3	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	9	flow	0	topk	0
+edge	26	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	9	flow	0	topk	0
+edge	4	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	9	flow	0	topk	0
+edge	57	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	8	flow	0	topk	0
+edge	0	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	8	flow	0	topk	0
+edge	36	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	7	flow	0	topk	0
+edge	23	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	7	flow	0	topk	0
+edge	58	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	7	flow	0	topk	0
+edge	31	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	7	flow	0	topk	0
+edge	63	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	7	flow	0	topk	0
+edge	13	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	7	flow	0	topk	0
+edge	6	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	6	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	6	flow	0	topk	0
+edge	53	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	6	flow	0	topk	0
+edge	58	weight	20	filled_weight	7	var	9
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	25	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	0
+edge	60	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	6	flow	0	topk	0
+edge	19	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	52	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	21	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	52	weight	20	filled_weight	5	var	9
+
+==================== scenario end ====================
+scailing_constant	20	total_prov	0	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END
+i	0	totalmean	10	flow	0	topk	0
+edge	45	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	1	totalmean	10	flow	0	topk	0
+edge	10	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	2	totalmean	10	flow	0	topk	0
+edge	1	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	3	totalmean	9	flow	0	topk	0
+edge	26	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	4	totalmean	9	flow	0	topk	0
+edge	16	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	5	totalmean	9	flow	0	topk	0
+edge	40	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	6	totalmean	8	flow	0	topk	0
+edge	20	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	7	totalmean	8	flow	0	topk	1
+edge	49	weight	20	filled_weight	0	var	0
+edge	54	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	8	totalmean	8	flow	0	topk	0
+edge	14	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	9	totalmean	8	flow	0	topk	0
+edge	60	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	10	totalmean	8	flow	0	topk	0
+edge	64	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	11	totalmean	7	flow	0	topk	1
+edge	56	weight	20	filled_weight	0	var	0
+edge	41	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	12	totalmean	7	flow	0	topk	0
+edge	46	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	13	totalmean	7	flow	0	topk	0
+edge	33	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	14	totalmean	6	flow	0	topk	0
+edge	60	weight	20	filled_weight	8	var	9
+
+==================== scenario end ====================
+i	15	totalmean	6	flow	0	topk	0
+edge	62	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	16	totalmean	5	flow	0	topk	0
+edge	43	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	17	totalmean	5	flow	0	topk	0
+edge	10	weight	20	filled_weight	10	var	4
+
+==================== scenario end ====================
+i	18	totalmean	5	flow	0	topk	0
+edge	17	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+i	19	totalmean	5	flow	0	topk	0
+edge	50	weight	20	filled_weight	0	var	0
+
+==================== scenario end ====================
+scailing_constant	20	total_prov	0	utilization	-nan
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~THE END

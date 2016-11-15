@@ -1,0 +1,263 @@
+0
+1
+2
+3
+4
+Optimize a model with 8 rows, 9 columns and 15 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [2e+01, 6e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 3e+00]
+Found heuristic solution: objective 60
+Presolve removed 8 rows and 9 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.000000000000e+01, best bound 2.000000000000e+01, gap 0.0%
+i: 0	total: 5
+i: 1	total: 5
+i: 2	total: 5
+i: 3	total: 5
+i: 4	total: 5
+Optimize a model with 8 rows, 9 columns and 14 nonzeros
+Coefficient statistics:
+  Matrix range    [9e-01, 1e+00]
+  Objective range [2e+01, 4e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [9e-01, 2e+00]
+Found heuristic solution: objective 38
+Presolve removed 8 rows and 9 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.900000000000e+01, best bound 1.900000000000e+01, gap 0.0%
+i: 0	total: 5
+i: 1	total: 5
+i: 2	total: 5
+i: 3	total: 5
+i: 4	total: 5
+Optimize a model with 8 rows, 9 columns and 15 nonzeros
+Coefficient statistics:
+  Matrix range    [8e-01, 1e+00]
+  Objective range [2e+01, 5e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [9e-01, 3e+00]
+Found heuristic solution: objective 54
+Presolve removed 8 rows and 9 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.800000000000e+01, best bound 1.800000000000e+01, gap 0.0%
+i: 0	total: 5
+i: 1	total: 5
+i: 2	total: 5
+i: 3	total: 5
+i: 4	total: 5
+Optimize a model with 8 rows, 9 columns and 16 nonzeros
+Coefficient statistics:
+  Matrix range    [7e-01, 1e+00]
+  Objective range [3e+01, 5e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [8e-01, 2e+00]
+Found heuristic solution: objective 51
+Presolve removed 8 rows and 9 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.400000000000e+01, best bound 3.400000000000e+01, gap 0.0%
+i: 0	total: 5
+i: 1	total: 5
+i: 2	total: 5
+i: 3	total: 5
+i: 4	total: 5
+Optimize a model with 8 rows, 9 columns and 15 nonzeros
+Coefficient statistics:
+  Matrix range    [4e-01, 1e+00]
+  Objective range [1e+01, 3e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e-01, 2e+00]
+Found heuristic solution: objective 11
+Presolve removed 8 rows and 9 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.100000000000e+01, best bound 1.100000000000e+01, gap 0.0%
+i: 0	total: 5
+i: 1	total: 5
+i: 2	total: 5
+i: 3	total: 5
+i: 4	total: 5
+Optimize a model with 8 rows, 9 columns and 15 nonzeros
+Coefficient statistics:
+  Matrix range    [5e-01, 1e+00]
+  Objective range [1e+01, 3e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [2e-01, 1e+00]
+Found heuristic solution: objective 11
+Presolve removed 8 rows and 9 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.100000000000e+01, best bound 1.100000000000e+01, gap 0.0%
+i: 0	total: 5
+i: 1	total: 5
+i: 2	total: 5
+i: 3	total: 5
+i: 4	total: 5
+============================================== OUR MODEL END ===================================================
+
+Optimize a model with 8 rows, 9 columns and 15 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 2e+01]
+  Objective range [2e+01, 7e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 4e+01]
+Found heuristic solution: objective 68.2383
+Presolve removed 8 rows and 9 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.274609526353e+01, best bound 2.274609526353e+01, gap 0.0%
+ID: 0, FLOW: 0, Path: 0, DEMAND: 22.7461, EDGE: 3
+Optimize a model with 8 rows, 9 columns and 14 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 2e+01]
+  Objective range [2e+01, 5e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 4e+01]
+Found heuristic solution: objective 22.6615
+Presolve removed 8 rows and 9 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.266146035137e+01, best bound 2.266146035137e+01, gap 0.0%
+ID: 1, FLOW: 0, Path: 0, DEMAND: 22.6615, EDGE: 2
+Optimize a model with 8 rows, 9 columns and 15 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 2e+01]
+  Objective range [2e+01, 6e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 4e+01]
+Found heuristic solution: objective 62.2383
+Presolve removed 8 rows and 9 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.074609526353e+01, best bound 2.074609526353e+01, gap 0.0%
+ID: 2, FLOW: 0, Path: 0, DEMAND: 20.7461, EDGE: 4
+Optimize a model with 8 rows, 9 columns and 16 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 2e+01]
+  Objective range [4e+01, 6e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 4e+01]
+Found heuristic solution: objective 61.9844
+Presolve removed 8 rows and 9 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.132292070274e+01, best bound 4.132292070274e+01, gap 0.0%
+ID: 3, FLOW: 0, Path: 0, DEMAND: 20.6615, EDGE: 1
+ID: 3, FLOW: 0, Path: 0, DEMAND: 20.6615, EDGE: 4
+Optimize a model with 8 rows, 9 columns and 15 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+01]
+  Objective range [1e+01, 4e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 4e+01]
+Found heuristic solution: objective 14.6615
+Presolve removed 8 rows and 9 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.466146035137e+01, best bound 1.466146035137e+01, gap 0.0%
+ID: 8, FLOW: 0, Path: 0, DEMAND: 14.6615, EDGE: 0
+Optimize a model with 8 rows, 9 columns and 15 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+01]
+  Objective range [1e+01, 4e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 3e+01]
+Found heuristic solution: objective 12.8307
+Presolve removed 8 rows and 9 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.283073017569e+01, best bound 1.283073017569e+01, gap 0.0%
+ID: 10, FLOW: 0, Path: 0, DEMAND: 12.8307, EDGE: 1
+S_Edge[0]
+n_accepted_requests	1	filled_weight	11	total_var	16	min_epsilon	0.18
+accepted_requests	8	
+
+S_Edge[1]
+n_accepted_requests	2	filled_weight	28	total_var	20	min_epsilon	0.18
+accepted_requests	3	10	
+
+S_Edge[2]
+n_accepted_requests	1	filled_weight	19	total_var	16	min_epsilon	0.18
+accepted_requests	1	
+
+S_Edge[3]
+n_accepted_requests	1	filled_weight	20	total_var	9	min_epsilon	0.18
+accepted_requests	0	
+
+S_Edge[4]
+n_accepted_requests	2	filled_weight	35	total_var	25	min_epsilon	0.18
+accepted_requests	2	3	
+
+
+****************************** our model ******************************
+
+# of new accepted requests	6	total_new_requests	30	req_qos	0.18
+accepted_mean	96	total_filled	113
+normalized_accepted_mean	inf
+edgeID	0	capacity	45	mean	11	var	16	stddev	4	value	8.5	qos	1
+edgeID	1	capacity	45	mean	28	var	20	stddev	4.47214	value	3.80132	qos	0.999928
+edgeID	2	capacity	45	mean	19	var	16	stddev	4	value	6.5	qos	1
+edgeID	3	capacity	45	mean	20	var	9	stddev	3	value	8.33333	qos	1
+edgeID	4	capacity	45	mean	35	var	25	stddev	5	value	2	qos	0.97725
+sum_qos	4.97718	average_qos	0.995436	violation_indicator	0
+6	30	0.97725	0	0.18
+
+
+****************************** comparison group ******************************
+
+
+

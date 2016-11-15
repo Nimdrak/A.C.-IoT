@@ -1,0 +1,76 @@
+S_Edge[0]
+n_accepted_requests	0	filled_weight	0	total_var	0	min_epsilon	1
+accepted_requests	
+
+S_Edge[1]
+n_accepted_requests	0	filled_weight	0	total_var	0	min_epsilon	1
+accepted_requests	
+
+S_Edge[2]
+n_accepted_requests	0	filled_weight	0	total_var	0	min_epsilon	1
+accepted_requests	
+
+S_Edge[3]
+n_accepted_requests	0	filled_weight	0	total_var	0	min_epsilon	1
+accepted_requests	
+
+S_Edge[4]
+n_accepted_requests	0	filled_weight	0	total_var	0	min_epsilon	1
+accepted_requests	
+
+S_Edge[5]
+n_accepted_requests	0	filled_weight	0	total_var	0	min_epsilon	1
+accepted_requests	
+
+S_Edge[6]
+n_accepted_requests	0	filled_weight	0	total_var	0	min_epsilon	1
+accepted_requests	
+
+S_Edge[7]
+n_accepted_requests	0	filled_weight	0	total_var	0	min_epsilon	1
+accepted_requests	
+
+S_Edge[8]
+n_accepted_requests	0	filled_weight	0	total_var	0	min_epsilon	1
+accepted_requests	
+
+S_Edge[9]
+n_accepted_requests	0	filled_weight	0	total_var	0	min_epsilon	1
+accepted_requests	
+
+S_Edge[10]
+n_accepted_requests	0	filled_weight	0	total_var	0	min_epsilon	1
+accepted_requests	
+
+S_Edge[11]
+n_accepted_requests	0	filled_weight	0	total_var	0	min_epsilon	1
+accepted_requests	
+
+S_Edge[12]
+n_accepted_requests	0	filled_weight	0	total_var	0	min_epsilon	1
+accepted_requests	
+
+S_Edge[13]
+n_accepted_requests	0	filled_weight	0	total_var	0	min_epsilon	1
+accepted_requests	
+
+S_Edge[14]
+n_accepted_requests	0	filled_weight	0	total_var	0	min_epsilon	1
+accepted_requests	
+
+S_Edge[15]
+n_accepted_requests	0	filled_weight	0	total_var	0	min_epsilon	1
+accepted_requests	
+
+S_Edge[16]
+n_accepted_requests	0	filled_weight	0	total_var	0	min_epsilon	1
+accepted_requests	
+
+S_Edge[17]
+n_accepted_requests	0	filled_weight	0	total_var	0	min_epsilon	1
+accepted_requests	
+
+S_Edge[18]
+n_accepted_requests	0	filled_weight	0	total_var	0	min_epsilon	1
+accepted_requests	
+

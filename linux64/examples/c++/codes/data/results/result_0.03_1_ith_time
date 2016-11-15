@@ -1,0 +1,808 @@
+0
+1
+2
+3
+4
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [2e-01, 1e+00]
+  Objective range [2e+01, 6e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [2e-01, 1e+00]
+Found heuristic solution: objective 60
+Presolve removed 7 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.000000000000e+01, best bound 2.000000000000e+01, gap 0.0%
+i: 0	total: 4
+i: 1	total: 4
+i: 2	total: 4
+i: 3	total: 4
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e-01, 1e+00]
+  Objective range [2e+01, 5e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [4e-02, 1e+00]
+Presolve removed 5 rows and 4 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [9e-02, 1e+00]
+  Objective range [3e+01, 3e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [3e-02, 1e+00]
+Presolve removed 5 rows and 4 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [5e-02, 1e+00]
+  Objective range [1e+01, 3e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [5e-02, 1e+00]
+Presolve removed 5 rows and 4 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [4e-02, 1e+00]
+  Objective range [9e+00, 3e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [5e-02, 1e+00]
+Presolve removed 5 rows and 4 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [5e-02, 1e+00]
+  Objective range [1e+01, 3e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [5e-02, 1e+00]
+Presolve removed 5 rows and 4 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [2e-02, 1e+00]
+  Objective range [1e+01, 1e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [6e-02, 1e+00]
+Presolve removed 5 rows and 4 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [9e-03, 1e+00]
+  Objective range [2e+00, 6e+00]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [6e-02, 1e+00]
+Presolve removed 5 rows and 4 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [8e-02, 1e+00]
+  Objective range [3e+01, 3e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [2e-02, 1e+00]
+Presolve removed 5 rows and 4 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e-01, 1e+00]
+  Objective range [3e+01, 3e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [5e-03, 1e+00]
+Presolve removed 5 rows and 4 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [5e-03, 1e+00]
+  Objective range [1e+00, 3e+00]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [5e-02, 1e+00]
+Presolve removed 5 rows and 4 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [5e-02, 1e+00]
+  Objective range [8e+00, 2e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [3e-02, 1e+00]
+Presolve removed 5 rows and 4 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e-01, 1e+00]
+  Objective range [4e+01, 4e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e-02, 1e+00]
+Found heuristic solution: objective 38
+Presolve removed 7 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.800000000000e+01, best bound 3.800000000000e+01, gap 0.0%
+i: 0	total: 4
+i: 1	total: 4
+i: 2	total: 4
+i: 3	total: 4
+Optimize a model with 7 rows, 6 columns and 6 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [0e+00, 0e+00]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [2e-02, 1e+00]
+Presolve removed 1 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [4e-02, 1e+00]
+  Objective range [7e+00, 2e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [3e-02, 1e+00]
+Presolve removed 3 rows and 4 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [8e-02, 1e+00]
+  Objective range [1e+01, 3e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e-02, 1e+00]
+Found heuristic solution: objective 11
+Presolve removed 7 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.100000000000e+01, best bound 1.100000000000e+01, gap 0.0%
+i: 0	total: 4
+i: 1	total: 4
+i: 2	total: 4
+i: 3	total: 4
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [6e-02, 1e+00]
+  Objective range [9e+00, 3e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e-03, 1e+00]
+Found heuristic solution: objective 9
+Presolve removed 7 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 9.000000000000e+00, best bound 9.000000000000e+00, gap 0.0%
+i: 0	total: 4
+i: 1	total: 4
+i: 2	total: 4
+i: 3	total: 4
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [9e-02, 1e+00]
+  Objective range [1e+01, 4e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [2e-02, 1e+00]
+Found heuristic solution: objective 12
+Presolve removed 7 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.200000000000e+01, best bound 1.200000000000e+01, gap 0.0%
+i: 0	total: 4
+i: 1	total: 4
+i: 2	total: 4
+i: 3	total: 4
+============================================== OUR MODEL END ===================================================
+
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 4e+01]
+  Objective range [4e+01, 1e+02]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 4e+01]
+Found heuristic solution: objective 122.066
+Presolve removed 7 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.068872968966e+01, best bound 4.068872968966e+01, gap 0.0%
+ID: 0, FLOW: 0, Path: 0, DEMAND: 40.6887, EDGE: 2
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 4e+01]
+  Objective range [4e+01, 1e+02]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 4e+01]
+Found heuristic solution: objective 40.5695
+Presolve removed 7 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 4.056952329782e+01, best bound 4.056952329782e+01, gap 0.0%
+ID: 1, FLOW: 0, Path: 0, DEMAND: 40.5695, EDGE: 3
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 4e+01]
+  Objective range [8e+01, 8e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 4e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 4e+01]
+  Objective range [4e+01, 1e+02]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 4e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 4e+01]
+  Objective range [4e+01, 1e+02]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 4e+01]
+Found heuristic solution: objective 37.2119
+Presolve removed 7 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.721190412227e+01, best bound 3.721190412227e+01, gap 0.0%
+ID: 4, FLOW: 0, Path: 0, DEMAND: 37.2119, EDGE: 0
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 4e+01]
+  Objective range [4e+01, 1e+02]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 4e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 4e+01]
+  Objective range [7e+01, 7e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 4e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 3e+01]
+  Objective range [3e+01, 1e+02]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 4e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 3e+01]
+  Objective range [6e+01, 6e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 4e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 3e+01]
+  Objective range [6e+01, 6e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 4e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 3e+01]
+  Objective range [3e+01, 8e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 4e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 3e+01]
+  Objective range [3e+01, 8e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 4e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 3e+01]
+  Objective range [5e+01, 5e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 4e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 3e+01]
+  Objective range [5e+01, 5e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 4e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 3e+01]
+  Objective range [3e+01, 8e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 4e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 2e+01]
+  Objective range [2e+01, 6e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 4e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 2e+01]
+  Objective range [2e+01, 6e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 4e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 2e+01]
+  Objective range [4e+01, 4e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 4e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 2e+01]
+  Objective range [2e+01, 5e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 4e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 2e+01]
+  Objective range [2e+01, 5e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 4e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 2e+01]
+  Objective range [3e+01, 3e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 4e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 2e+01]
+  Objective range [2e+01, 5e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 4e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+01]
+  Objective range [1e+01, 4e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 4e+01]
+Found heuristic solution: objective 14.7616
+Presolve removed 7 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.476158721630e+01, best bound 1.476158721630e+01, gap 0.0%
+ID: 22, FLOW: 0, Path: 0, DEMAND: 14.7616, EDGE: 1
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+01]
+  Objective range [3e+01, 3e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 3e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+01]
+  Objective range [3e+01, 3e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 3e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+01]
+  Objective range [2e+01, 2e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 3e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+01]
+  Objective range [1e+01, 3e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 3e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+01]
+  Objective range [1e+01, 3e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 3e+01]
+Presolve removed 6 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Error code = 10004
+Var::get
+Optimize a model with 7 rows, 6 columns and 10 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+01]
+  Objective range [1e+01, 3e+01]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 3e+01]
+Found heuristic solution: objective 9.52317
+Presolve removed 7 rows and 6 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 2 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 9.523174432605e+00, best bound 9.523174432605e+00, gap 0.0%
+ID: 28, FLOW: 0, Path: 0, DEMAND: 9.52317, EDGE: 1
+S_Edge[0]
+n_accepted_requests	2	filled_weight	30	total_var	32	min_epsilon	0.03
+accepted_requests	12	15	
+
+S_Edge[1]
+n_accepted_requests	1	filled_weight	19	total_var	16	min_epsilon	0.03
+accepted_requests	12	
+
+S_Edge[2]
+n_accepted_requests	1	filled_weight	20	total_var	121	min_epsilon	0.03
+accepted_requests	0	
+
+S_Edge[3]
+n_accepted_requests	2	filled_weight	21	total_var	34	min_epsilon	0.03
+accepted_requests	16	19	
+
+
+****************************** our model ******************************
+
+# of new accepted requests	5	total_new_requests	30	req_qos	0.03
+accepted_mean	71	total_filled	90
+normalized_accepted_mean	71
+edgeID	0	capacity	45	mean	30	var	32	stddev	5.65685	value	2.65165	qos	0.995995
+edgeID	1	capacity	45	mean	19	var	16	stddev	4	value	6.5	qos	1
+edgeID	2	capacity	45	mean	20	var	121	stddev	11	value	2.27273	qos	0.988479
+edgeID	3	capacity	45	mean	21	var	34	stddev	5.83095	value	4.11597	qos	0.999981
+sum_qos	3.98445	average_qos	0.996114	violation_indicator	0
+5	30	0.988479	0	0.03
+
+
+****************************** comparison group ******************************
+
+
+
