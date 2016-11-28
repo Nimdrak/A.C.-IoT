@@ -6,7 +6,7 @@ make
 echo "----- main executable file is made!!! run the file -----"
 
 #for qos in 0.03 0.06 0.09 0.12 #0.15
-for qos in 0.18 #0.05 0.1
+for qos in 0.06 #0.05 0.1
 do
 	case "$qos" in
 		0.01)

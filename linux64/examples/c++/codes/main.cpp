@@ -119,10 +119,10 @@ int main(int argc, char* argv[]) {
 	c_sub_provisioning_result_File.open("data/c_sub_provisioning_result", ios_base::out | ios_base::app);
 
 	// for experiments
-	ofstream expr_path_File("/home/controller/IoT/input1.txt");
-	ofstream expr_demand_File("/home/controller/IoT/input_mean1.txt");
-	ofstream c_expr_path_File("/home/controller/IoT/c_input1.txt");
-	ofstream c_expr_demand_File("/home/controller/IoT/c_input_mean1.txt");
+	ofstream expr_path_File("/home/byounguklee/mininet/con_python/input1.txt");
+	ofstream expr_demand_File("/home/byounguklee/mininet/con_python/input_mean1.txt");
+	ofstream c_expr_path_File("/home/byounguklee/mininet/con_python/c_input1.txt");
+	ofstream c_expr_demand_File("/home/byounguklee/mininet/con_python/c_input_mean1.txt");
 
 	embedded_path_File << "======" << atoi(argv[1]) << "th trial=====" << endl;	
 

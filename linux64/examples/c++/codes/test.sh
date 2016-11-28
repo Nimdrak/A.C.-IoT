@@ -42,7 +42,7 @@ do
 	for n in 1
 	do
 		echo "./main $n $qos $approximation_slope $approximation_constant $expansion_point"
-		./main $n $qos $approximation_slope $approximation_constant $expansion_point 1 > result_"$qos"_"$n"th_time
+		./main $n $qos $approximation_slope $approximation_constant $expansion_point 1 > result_"$qos"_"$n"th_time > output.txt
 	done
 done
 
