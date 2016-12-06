@@ -103,8 +103,8 @@ C_Phy_Topo::C_Phy_Topo(int snodenum, int sedgenum, double capa) {
 	edges = new C_S_Edge*[sedgenum];
 
 	/* read topology */
-	ifstream inFile("topo_expr1.txt");
-//	ifstream inFile("B4_SN_topology.txt");
+//	ifstream inFile("topo_expr1.txt");
+	ifstream inFile("B4_SN_topology.txt");
 //	ifstream inFile("B4_SN_topology_test.txt");
 //	ifstream inFile("complete.txt");
 
@@ -119,9 +119,9 @@ C_Phy_Topo::C_Phy_Topo(int snodenum, int sedgenum, double capa) {
 		inFile.getline(c_inputString, 100);
 		
 		//SG: have to be modified (parsed with string)
-		if (tmp_node_number == 4) {
-			break;	
-		}
+		//if (tmp_node_number == 4) {
+		//	break;	
+		//}
 		
 		/* create current C_S_Node */
 		nodes[tmp_node_number] = new C_S_Node(tmp_node_number);		

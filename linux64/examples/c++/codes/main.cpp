@@ -30,8 +30,8 @@
 #include "DijkstraShortestPathAlg.h"
 #include "YenTopKShortestPathsAlg.h"
 
-#define SNODENUM 4	// number of datacenters: 4 
-#define SEDGENUM 5	// number of edges: 4 
+#define SNODENUM 12//4	// number of datacenters: 4 
+#define SEDGENUM 19//5	// number of edges: 4 
 #define CAPACITY 500	// capacity: 90Mbps
 #define MAX_PATH_SIZE 10	// all paths could not consist of more than 10 edges
 #define MAX_FLOW_SIZE 1		// the maximum number of flows per each request
@@ -68,7 +68,6 @@ enum Cost {
 
 int main(int argc, char* argv[]) {
 	srand(atoi(argv[1]));	// seed change
-
 	double req_qos = atof(argv[2]);	// epsilon
 
 	// linear approximation value for each epsilon
@@ -78,18 +77,21 @@ int main(int argc, char* argv[]) {
 
 	double scailing_constant = atof(argv[6]);	// scailing for the cost to provisioning
 
-	int n_request = 10000;	// the number of new requests
 
+	int n_request = 1000;	// the number of new requests
 	//ByoungUk
-	int top_k = 1;	// consider only top_k shortest paths
+	int top_k = 5;	// consider only top_k shortest paths
+
 
 	// for experiments
 	int remaining_servers[SNODENUM];	// the number of idle servers in each datacenter
 	int c_remaining_servers[SNODENUM];
 	for (int i=0; i<SNODENUM; i++) {
-		remaining_servers[i] = 250;
-		c_remaining_servers[i] = 250;
+		remaining_servers[i] = 500;
+		c_remaining_servers[i] = 500;
 	}
+
+
 
 	char node_arr_for_path[100];	// store node_path to change link_path (temporary)
 
@@ -98,6 +100,8 @@ int main(int argc, char* argv[]) {
 
 	enum Alg alg = Strong_Var;
 	enum Cost cost = Borrow;
+
+
 
 	vector <int>::iterator path_iter;
 
@@ -118,6 +122,7 @@ int main(int argc, char* argv[]) {
 	sub_provisioning_result_File.open("data/sub_provisioning_result", ios_base::out | ios_base::app);
 	c_sub_provisioning_result_File.open("data/c_sub_provisioning_result", ios_base::out | ios_base::app);
 
+
 	// for experiments
 	ofstream expr_path_File("/home/byounguklee/mininet/con_python/input1.txt");
 	ofstream expr_demand_File("/home/byounguklee/mininet/con_python/input_mean1.txt");
@@ -125,6 +130,7 @@ int main(int argc, char* argv[]) {
 	ofstream c_expr_demand_File("/home/byounguklee/mininet/con_python/c_input_mean1.txt");
 
 	embedded_path_File << "======" << atoi(argv[1]) << "th trial=====" << endl;	
+
 
 	// initialization of substrate network
 	Phy_Topo *Topo;
@@ -559,7 +565,7 @@ int main(int argc, char* argv[]) {
 					for (int k=0; k<top_k; k++) {
 						if (path_allocator[j][k].get(GRB_DoubleAttr_X) == 1) {	// the flow j should be embedded on path k
 							for (path_iter = path_node_vec[i][j][k].begin(); path_iter != path_node_vec[i][j][k].end(); path_iter++) {
-								expr_path_File << *(path_iter) + 1 << "\t";
+								expr_path_File << *(path_iter) + 1  << "\t";
 							}
 							expr_path_File << endl;
 							expr_demand_File << request[i].flows[j]->mean2 << "\t" << sqrt(request[i].flows[j]->var2) << endl;
@@ -866,7 +872,7 @@ int main(int argc, char* argv[]) {
 					for (int k=0; k<top_k; k++) {
 						if (path_allocator[j][k].get(GRB_DoubleAttr_X) == 1) {	// the flow j should be embedded on path k
 							for (path_iter = path_node_vec[i][j][k].begin(); path_iter != path_node_vec[i][j][k].end(); path_iter++) {
-								expr_path_File << *(path_iter) + 1 << "\t";
+								expr_path_File << *(path_iter) + 1  << "\t";
 							}
 							expr_path_File << endl;
 							expr_demand_File << request[i].flows[j]->mean2 << "\t" << sqrt(request[i].flows[j]->var2) << endl;
@@ -892,7 +898,6 @@ int main(int argc, char* argv[]) {
 	/* ======================================== LP3: Admission Control (our model, minimize flow, greedy, gurobi) ======================================== */
 
 	else {
-		cout << "fuckss" << endl;
 		for (int i=0; i<n_request; i++) {
 			int flow_number = request[i].flow_count;	
 			int test_value = 0;
@@ -1090,10 +1095,11 @@ int main(int argc, char* argv[]) {
 					for (int k=0; k<top_k; k++) {
 						if (path_allocator[j][k].get(GRB_DoubleAttr_X) == 1) {	// the flow j should be embedded on path k
 							for (path_iter = path_node_vec[i][j][k].begin(); path_iter != path_node_vec[i][j][k].end(); path_iter++) {
-								expr_path_File << *(path_iter) + 1 << "\t";
+								expr_path_File << *(path_iter) + 1 << "\t" ;
 							}
 							expr_path_File << endl;
-							expr_demand_File << request[i].flows[j]->mean2 << "\t" << sqrt(request[i].flows[j]->var2) << endl;
+//							expr_path_File << *(path_node_vec[i][j][k].begin())+2 << "check" << endl;
+							expr_demand_File << request[i].flows[j]->mean2 << "\t" << sqrt(request[i].flows[j]->var2) << "check" << endl;
 						}
 					}
 				}
@@ -1657,9 +1663,9 @@ void init_request(Request* request, C_Request* c_request, int n_request, bool ac
 			for (int j=0; j<f_count; j++) {
 
 					//ByoungUk
-					node1 = 2;
+/*					node1 = 2;
 					node2 = 3;
-/*
+*/
 					node1 = rand() % SNODENUM;
 
 					while (1) {
@@ -1667,7 +1673,7 @@ void init_request(Request* request, C_Request* c_request, int n_request, bool ac
 						if (node1 != node2)
 							break;
 					}
-*/				
+				
 					_mean = double(rand() % 5 + 1 );		// mean: 3~5	
 					_stddev = double(rand() %2 + 1);	// var: 3~4	
 					_demand = _mean + _stddev * normsinv(double(1.0 - _eps));
@@ -1694,7 +1700,9 @@ void init_request(Request* request, C_Request* c_request, int n_request, bool ac
 }
 
 void find_k_shortest_paths_for_new_requests(Request request, int flow_number, int top_k, ostream& out_stream) {
-	Graph my_graph("topo_expr1");
+
+	Graph my_graph("B4_SN");
+//	Graph my_graph("topo_expr1");
 	vector<BasePath*> result;
 	vector<BasePath*>::iterator result_iter;
 
@@ -1712,7 +1720,8 @@ void find_k_shortest_paths_for_new_requests(Request request, int flow_number, in
 }
 
 void find_k_shortest_paths_for_c_new_requests(C_Request request, int flow_number, int top_k, ostream& out_stream) {
-	Graph my_graph("topo_expr1");
+	Graph my_graph("B4_SN");
+//	Graph my_graph("topo_expr1");
 	vector<BasePath*> result;
 	vector<BasePath*>::iterator result_iter;
 

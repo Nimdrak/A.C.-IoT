@@ -212,8 +212,8 @@ Phy_Topo::Phy_Topo(int snodenum, int sedgenum, int capa) {
 	edges = new S_Edge*[sedgenum];
 
 	/* read topology */
-	ifstream inFile("topo_expr1.txt");
-//	ifstream inFile("B4_SN_topology.txt");
+//	ifstream inFile("topo_expr1.txt");
+	ifstream inFile("B4_SN_topology.txt");
 //	ifstream inFile("B4_SN_topology_test.txt");
 //	ifstream inFile("complete.txt");
 
@@ -229,9 +229,9 @@ Phy_Topo::Phy_Topo(int snodenum, int sedgenum, int capa) {
 		
 		//SG: have to be modified (parsed with string)
 		cout << tmp_node_number << endl;
-		if (tmp_node_number == 4) {
-			break;	
-		}
+	//	if (tmp_node_number == 4) {
+	//		break;	
+	//	}
 		
 		/* create current S_Node */
 		nodes[tmp_node_number] = new S_Node(tmp_node_number);		
