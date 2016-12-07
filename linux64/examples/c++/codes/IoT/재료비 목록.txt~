@@ -1,0 +1,37 @@
+460만원을 채워야 한다
+-
+당장 사야할 장비는 없어서 재료비로 채움
+
+-
+테스트배드와 관련된 장비
+(1) 컨트롤러 컴퓨터와 관련된 부품들
+:
+ SDN컨트롤러는 각각의 스위치가 하던 일들을 하나의 컴퓨터가 모두 하므로 그 부하가 크다.
+ 그래서 고성능의 컴퓨터가 필요.
+
+- 고성능 CPU : 인텔 코어 i7 하스웰 E 5960X 127만원
+http://shopping.naver.com/detail/detail.nhn?nv_mid=7935066476&cat_id=50001620&frm=NVSHPRC&query=CPU
+
+
+- RAM : 삼성전자 16G DDR4 4개 11만 x 2 = 22만
+
+- SSD : 삼성전자 850 PRO 512gb 1 = 27만원
+
+- 그래픽카드 : MSI GF GTX Titan X DDR5 12G 웨이코스 160만원
+http://storefarm.naver.com/spon/products/521849078?NaPm=ct%3Diwd4oq94%7Cci%3D419c1313e85a968eada23eaf9ca680ae6189f2d8%7Ctr%3Dslsl%7Csn%3D192435%7Cic%3D%7Chk%3Ded5eef4069ecf70bd9a4130387db0173d6abfff5
+
+위에가 합쳐서 대충 336만원
+
+
+
+(2) 호스트에 사용되는 고성능 이더넷 카드
+:
+ 실제 WAN 데이터 센터 환경에서는 데이터 레잇이 매우 높음. 이를 테스트 배드에서도 감당하기 위해
+ 고성능 이더넷 카드가 필요. 이 고성능 이더넷 카드는 클라우드의 서버 역할을 하는 컴퓨터에서 사용됨.
+
+- 10G 이더넷 카드 27만 x 5 = 135만
+http://okzicgoo.com/shop/item.php?it_id=n1480574907345&NaPm=ct%3Diwd4i4lk%7Cci%3Dada4836346b58a516c0095683ac432116e9a6903%7Ctr%3Dslsl%7Csn%3D405915%7Chk%3Deef907ddc623dad08e803051757f578fafcf013e
+
+
+
+위에 다 합쳐서 471만원 입니다.

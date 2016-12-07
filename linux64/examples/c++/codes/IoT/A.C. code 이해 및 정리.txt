@@ -1,0 +1,23 @@
+1.함수 정리
+
+(1)
+void init_request(Request*, C_Request*, int, bool, double);
+
+mean, stddev, qos값을 갖는 request들을 정해준다
+
+
+
+
+
+
+
+void find_k_shortest_paths_for_new_requests(Request, int, int, ostream&);
+void find_k_shortest_paths_for_c_new_requests(C_Request, int, int, ostream&);
+void ChangePathform(Request*, vector <vector <int> >&, Phy_Topo*);
+void C_ChangePathform(C_Request*, vector <vector <int> >&, C_Phy_Topo*);
+vector <int> ChangeNewRequestPathsform(Request*, vector <int>&, Phy_Topo*);
+vector <int> C_ChangeNewRequestPathsform(C_Request*, vector <int>&, C_Phy_Topo*);
+void testDijkstraGraph();
+void testYenAlg();
+string itos(int i) {stringstream s; s << i; return s.str(); }
+

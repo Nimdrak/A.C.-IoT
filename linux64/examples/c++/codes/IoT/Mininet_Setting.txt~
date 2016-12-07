@@ -1,0 +1,21 @@
+1. SSH setting 시 변경시켰던 것들
+
+MaxSessions 100000
+MaxStartups 10000:10:20000
+ClientAliveInterval 1000000
+ClientAliveCountMax 1000
+
+
+
+2. Mininet TC와 관련된 문제
+링크 대역폭을 설정해주는 칸이 있지만, TCP iperf 이용시
+너무도 많이 흔들린다. 이것은 어떻게 하는 것이 좋을까?
+
+
+
+3. ONOS의 fwd 을 off 했을 때, ARP문제
+ARP가 문제 되어, 내 컴퓨터에서 host로 연결이 되지 않는데,
+수동으로 ARP Table을 추가해주는 것은 되지만,
+mininet 에서 제공해주는 ARP함수(setARP)는 동작하지 않음
+(일단 fwd 을 켜놓고 ONOS의 rule에 priority를 높이는 방식으로 실험)
+
