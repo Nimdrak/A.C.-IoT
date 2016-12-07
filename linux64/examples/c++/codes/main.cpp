@@ -1099,7 +1099,7 @@ int main(int argc, char* argv[]) {
 							}
 							expr_path_File << endl;
 //							expr_path_File << *(path_node_vec[i][j][k].begin())+2 << "check" << endl;
-							expr_demand_File << request[i].flows[j]->mean2 << "\t" << sqrt(request[i].flows[j]->var2) << "check" << endl;
+							expr_demand_File << request[i].flows[j]->mean2 << "\t" << sqrt(request[i].flows[j]->var2) << endl;
 						}
 					}
 				}
@@ -1674,7 +1674,7 @@ void init_request(Request* request, C_Request* c_request, int n_request, bool ac
 							break;
 					}
 				
-					_mean = double(rand() % 5 + 1 );		// mean: 3~5	
+					_mean = double(rand() % 5 + 3 );		// mean: 3~5	
 					_stddev = double(rand() %2 + 1);	// var: 3~4	
 					_demand = _mean + _stddev * normsinv(double(1.0 - _eps));
 
